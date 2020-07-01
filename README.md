@@ -2,7 +2,7 @@
 1. Copy in this folder your lem-in executable and the generator script
 2. Go to your .zshrc file (~/.zshrc) at the end of the file and add at the end this line
 ```
-. /Users/dominiquesaripapazoglou/Documents/Lemin-Tester/generate_maps.sh
+. /path/where/you/cloned/the/repo/generate_maps.sh
 ```
 
 ## Run
