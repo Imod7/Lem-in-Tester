@@ -1,53 +1,1086 @@
-[36mAnts assigned to Paths 
-Path ID 1 : 1 -> 6 -> 7 -> 12 -> 18 -> 26 -> 27 -> 38 -> 50 -> 63 -> 76 -> 89 -> 102 -> 115 -> 116 -> 129 -> 142 -> 155 [ total_size : 35 ] 
-Path ID 2 : 2 -> 3 -> 8 -> 13 -> 19 -> 20 -> 28 -> 39 -> 51 -> 64 -> 77 -> 90 -> 103 -> 104 -> 117 -> 130 -> 143 -> 156 [ total_size : 35 ] 
-Path ID 3 : 4 -> 9 -> 14 -> 15 -> 21 -> 29 -> 40 -> 52 -> 65 -> 78 -> 91 -> 92 -> 105 -> 118 -> 131 -> 144 -> 157 [ total_size : 35 ] 
-Path ID 4 : 5 -> 10 -> 11 -> 16 -> 22 -> 30 -> 41 -> 53 -> 66 -> 79 -> 80 -> 93 -> 106 -> 119 -> 132 -> 145 -> 158 [ total_size : 35 ] 
-Path ID 5 : 17 -> 23 -> 31 -> 42 -> 54 -> 67 -> 68 -> 81 -> 94 -> 107 -> 120 -> 133 -> 146 [ total_size : 34 ] 
-Path ID 6 : 24 -> 32 -> 43 -> 55 -> 56 -> 69 -> 82 -> 95 -> 108 -> 121 -> 134 -> 147 [ total_size : 34 ] 
-Path ID 7 : 25 -> 33 -> 44 -> 45 -> 57 -> 70 -> 83 -> 96 -> 109 -> 122 -> 135 -> 148 [ total_size : 34 ] 
-Path ID 8 : 34 -> 35 -> 46 -> 58 -> 71 -> 84 -> 97 -> 110 -> 123 -> 136 -> 149 [ total_size : 34 ] 
-Path ID 9 : 36 -> 47 -> 59 -> 72 -> 85 -> 98 -> 111 -> 124 -> 137 -> 150 [ total_size : 34 ] 
-Path ID 10 : 37 -> 48 -> 60 -> 73 -> 86 -> 99 -> 112 -> 125 -> 138 -> 151 -> 152 [ total_size : 35 ] 
-Path ID 11 : 49 -> 61 -> 74 -> 87 -> 100 -> 113 -> 126 -> 139 -> 140 -> 153 [ total_size : 35 ] 
-Path ID 12 : 62 -> 75 -> 88 -> 101 -> 114 -> 127 -> 128 -> 141 -> 154 [ total_size : 35 ] 
-Path ID 13 :  [ total_size : 37 ] 
-Path ID 14 :  [ total_size : 47 ] 
-Path ID 15 :  [ total_size : 50 ] 
-Path ID 16 :  [ total_size : 50 ] 
-Path ID 17 :  [ total_size : 54 ] 
-[0m[36mLines Needed: 33 
+85
+#Here is the number of lines required: 29
+##start
+Myv8 4 4
+##end
+Gnf9 6 6
+Bpt2 8 8
+Bz_6 12 12
+Va_4 14 14
+W_x1 19 19
+Mxw7 21 21
+Om_5 25 25
+Is_7 29 29
+Bie8 32 32
+Hzk5 36 36
+Egn9 37 37
+Hzh1 41 41
+Fhb9 46 46
+Hbx0 50 50
+Jav2 53 53
+Mma6 56 56
+Oea0 59 59
+Plm0 63 63
+Vfv2 64 64
+Tpi7 67 67
+Bvs5 68 68
+Yki2 71 71
+Tct3 76 76
+Rvw5 81 81
+Vk_6 85 85
+Moh9 87 87
+Jku1 91 91
+Heg0 96 96
+Gfp9 100 100
+Dhz3 104 104
+Ziw1 108 108
+Bp_3 111 111
+Jqu7 115 115
+Wjs7 118 118
+Ept1 119 119
+Nxd7 122 122
+M_y6 125 125
+Uen6 128 128
+Fin5 131 131
+Kc_1 134 134
+Oim6 136 136
+Vrh6 138 138
+Bje4 140 140
+Nqj6 145 145
+Xtr2 147 147
+Ytt0 150 150
+Cyi5 154 154
+Sbp2 155 155
+Rxg0 159 159
+Jrv0 161 161
+Ixp6 163 163
+Qhe3 164 164
+Xsa6 165 165
+Dso5 166 166
+Qba1 171 171
+Wvu8 175 175
+Vyc1 179 179
+Xm_7 183 183
+Nzf5 186 186
+Myc4 189 189
+Bax5 193 193
+Hda5 197 197
+Wij9 198 198
+R_u4 203 203
+Iyu6 206 206
+Aeo1 209 209
+K_t3 212 212
+Xkv6 217 217
+Rjr3 219 219
+Ece6 220 220
+U_q6 224 224
+Jqt8 226 226
+J_r9 230 230
+K_h4 233 233
+Qyd0 236 236
+Ic_2 240 240
+Co_9 243 243
+Azq3 244 244
+Mlv3 247 247
+Ruc6 250 250
+Ozp5 253 253
+Xak3 256 256
+Wcj3 260 260
+Zym0 263 263
+Bzx4 267 267
+Wyo6 271 271
+Gfe0 272 272
+Ggm8 274 274
+Wfo8 277 277
+Z_o7 281 281
+Mid0 283 283
+S_x3 286 286
+Pj_7 288 288
+Htd6 292 292
+Ho_8 295 295
+Tbz0 297 297
+Gih5 301 301
+Eek8 303 303
+U_i7 304 304
+Te_6 306 306
+Ick0 309 309
+Wia1 312 312
+M_n3 313 313
+Akg7 316 316
+Nna5 320 320
+Ca_4 322 322
+Hek1 325 325
+Aih0 328 328
+Fuv7 332 332
+Xbo6 336 336
+Srw5 339 339
+Pxp4 342 342
+Dqy5 345 345
+Aqo2 348 348
+Vag6 352 352
+Hwp5 356 356
+Pzn8 357 357
+Vwz7 361 361
+Azb5 362 362
+Ujc7 366 366
+Bik7 369 369
+X_x3 373 373
+Xfv9 377 377
+Fkg1 379 379
+Ccm3 383 383
+Z_l3 387 387
+Voq7 391 391
+Mxd7 394 394
+Zga5 397 397
+Zki2 402 402
+G_u0 403 403
+Ulh8 407 407
+Vww1 410 410
+Kaj9 414 414
+Dpp0 417 417
+Kny6 421 421
+Osq0 426 426
+Yyk1 429 429
+Gaq5 434 434
+S_y5 435 435
+Apj7 436 436
+Fja1 437 437
+Chy4 438 438
+Vcu4 441 441
+Ucb6 444 444
+Ghc7 447 447
+Zrd4 450 450
+Jca6 452 452
+Gso7 455 455
+Ca_6 460 460
+Tbi0 463 463
+Yvd7 467 467
+Jpp6 470 470
+K_j2 475 475
+Fil5 480 480
+Dwd0 483 483
+Tbs3 485 485
+Xpq9 488 488
+I__6 491 491
+Ygy9 495 495
+Fuq6 496 496
+Ilh6 499 499
+Unn3 501 501
+Yje8 504 504
+Vhv1 507 507
+Gig2 510 510
+Uey6 513 513
+Y_j6 517 517
+Wmr4 518 518
+Dgs0 519 519
+Vki7 523 523
+T__1 526 526
+Nfn0 531 531
+Xwu9 533 533
+Fn_5 538 538
+E_y8 539 539
+Azb0 544 544
+Zth4 547 547
+Zzj5 551 551
+Efo0 554 554
+Fwh4 556 556
+Ihq5 560 560
+Mgl7 561 561
+Gwi6 563 563
+Eum6 567 567
+Kfn7 569 569
+Zhn1 571 571
+Fqc1 574 574
+Nxg7 577 577
+Vev7 579 579
+Hkk8 581 581
+Ftp7 584 584
+Kym6 586 586
+Aad1 589 589
+Dud8 594 594
+Wky2 597 597
+Ygx5 600 600
+Xvg5 604 604
+Gaj9 609 609
+Soy0 611 611
+Ijv7 616 616
+Gnu7 617 617
+Mmy2 620 620
+Dkm5 623 623
+Blg1 626 626
+Wpv7 627 627
+Tzo1 628 628
+Kij1 629 629
+Oev5 632 632
+Twg1 634 634
+Gwb0 638 638
+Xsk1 641 641
+Ftt0 644 644
+Fkz1 648 648
+Rw_0 650 650
+Ajx0 651 651
+Cnm1 652 652
+Rzm1 656 656
+Ecc0 658 658
+Cit7 661 661
+Vl_6 663 663
+Alg1 664 664
+Csc6 666 666
+Ppg8 668 668
+Ivt1 671 671
+Jgr8 676 676
+Ask5 678 678
+Fcv5 680 680
+Rvh8 681 681
+Bud1 683 683
+Bwr4 688 688
+Wqn8 690 690
+Xsx3 694 694
+Ggv7 697 697
+Gch5 701 701
+H_t8 706 706
+Skm9 709 709
+Jhh1 712 712
+Rip1 713 713
+Gw_8 716 716
+Ezv7 719 719
+Dpn5 723 723
+Ejw3 726 726
+Upo5 729 729
+Mfu2 730 730
+Htb1 734 734
+Q_t0 735 735
+Key2 738 738
+Usu2 740 740
+Hc_9 742 742
+Onm5 747 747
+Rv_3 751 751
+Yh_5 754 754
+Qvg0 757 757
+Gxq3 760 760
+Sem3 763 763
+Byk2 765 765
+N_x5 768 768
+Tf_4 771 771
+Akc6 773 773
+Jhc3 776 776
+M_m8 779 779
+Ksp7 784 784
+Isa0 788 788
+Ysu1 789 789
+Mmk8 794 794
+Taw5 795 795
+J_z9 798 798
+Sql4 802 802
+Dok1 806 806
+Te_1 811 811
+Tvt7 814 814
+Que5 816 816
+Mrm0 821 821
+Ayu0 825 825
+Xtf2 826 826
+Uon4 829 829
+Jic7 832 832
+M_t3 834 834
+Rhd5 838 838
+Fci3 839 839
+Mpy6 842 842
+Ebr1 846 846
+Rrs5 848 848
+Hbc3 851 851
+Tta7 852 852
+Ok_3 856 856
+Zbo3 860 860
+A_y3 861 861
+Efz1 863 863
+Ycc7 868 868
+Nrl2 870 870
+Hqo2 873 873
+Em_4 876 876
+Gim5 880 880
+Ipf8 883 883
+Xpp5 884 884
+Dmz3 886 886
+Isa2 887 887
+A_k0 892 892
+A_s3 893 893
+Yvs4 897 897
+Gdq6 899 899
+Ndu0 901 901
+Juy1 903 903
+Dji3 905 905
+Pac3 906 906
+Msu0 908 908
+U_r3 912 912
+Tn_4 915 915
+Wk_6 917 917
+Pp_0 920 920
+Zwo2 923 923
+Jcf0 925 925
+Dqu9 927 927
+Mbc8 931 931
+A_v0 933 933
+Imv9 936 936
+Fif0 940 940
+Kpc1 945 945
+Efx0 949 949
+Tkm4 952 952
+Yxf9 953 953
+J__1 958 958
+Y_w9 962 962
+Moa3 967 967
+Ul_7 970 970
+Hor5 973 973
+Tbd2 975 975
+Sc_4 978 978
+Xey5 982 982
+Aas5 985 985
+Jyl7 986 986
+Snd1 989 989
+Oif9 992 992
+Bdh0 993 993
+Afl1 995 995
+Bsj9 998 998
+Ekb7 1000 1000
+Xgl5 1003 1003
+Yzr0 1007 1007
+Fhu0 1012 1012
+Hoe3 1015 1015
+Iu_2 1017 1017
+U_a6 1018 1018
+Ekj6 1022 1022
+Puh7 1025 1025
+Dj_1 1028 1028
+Wzx1 1030 1030
+Rpw4 1033 1033
+Rbt9 1037 1037
+Wvd9 1040 1040
+Asy0 1043 1043
+Hky2 1045 1045
+Uxv5 1047 1047
+Tbg2 1049 1049
+S_t0 1052 1052
+Ghk6 1056 1056
+Wme0 1058 1058
+Cgm3 1062 1062
+Wre2 1065 1065
+Pgw2 1069 1069
+Bzx7 1073 1073
+Rl_7 1077 1077
+Ggi5 1080 1080
+Cit1 1083 1083
+Azr8 1088 1088
+Bmi1 1091 1091
+Ijg2 1092 1092
+V_y9 1093 1093
+Cdr6 1097 1097
+Jwz4 1100 1100
+Hpa8 1104 1104
+Tle4 1107 1107
+Ctd4 1111 1111
+Frk1 1114 1114
+Frf4 1117 1117
+Rhl3 1121 1121
+Ijr0 1122 1122
+Xcw2 1126 1126
+Ztu0 1130 1130
+Fes1 1131 1131
+Cfs0 1134 1134
+Wop8 1138 1138
+Uit7 1142 1142
+K_t8 1145 1145
+Zkt5 1148 1148
+Uzm3 1151 1151
+Ncl4 1155 1155
+Rv_7 1160 1160
+Zng1 1162 1162
+Ehn8 1165 1165
+Xnt1 1168 1168
+Zzd9 1170 1170
+Xqx4 1175 1175
+Sto8 1178 1178
+Ers9 1180 1180
+Quy2 1185 1185
+Xay7 1188 1188
+Mfp8 1190 1190
+Jtn4 1192 1192
+Xah7 1197 1197
+Bkc7 1202 1202
+Rqj1 1206 1206
+Pdh8 1208 1208
+Vxe6 1212 1212
+Ukp7 1214 1214
+Wip5 1217 1217
+Xpr2 1219 1219
+Bxe8 1224 1224
+Dt_1 1226 1226
+Xur7 1229 1229
+Gi_0 1230 1230
+P_b9 1233 1233
+Ipd1 1236 1236
+Teu0 1240 1240
+Fls6 1245 1245
+Ter2 1249 1249
+Yvt4 1253 1253
+Nnj1 1255 1255
+Ald5 1258 1258
+Omv3 1261 1261
+Xoe6 1262 1262
+Vpw2 1266 1266
+Fe_0 1268 1268
+Qdm6 1272 1272
+Fzb4 1276 1276
+Mmi7 1277 1277
+Fdp6 1279 1279
+U_h3 1283 1283
+T_h4 1286 1286
+Cpk1 1290 1290
+Wjo4 1293 1293
+E__7 1297 1297
+Uho2 1300 1300
+A_g7 1303 1303
+Fy_1 1305 1305
+N_s5 1307 1307
+Xfa4 1310 1310
+In_0 1315 1315
+Qet7 1317 1317
+Aae8 1320 1320
+Ecu0 1322 1322
+Gjj5 1325 1325
+Vxn1 1327 1327
+Moe5 1331 1331
+Fij8 1332 1332
+Nji3 1335 1335
+Yav0 1338 1338
+Zpv7 1342 1342
+Uwp3 1346 1346
+N_c2 1350 1350
+Iqb5 1355 1355
+Y_g8 1358 1358
+Mvh1 1361 1361
+Urx3 1364 1364
+Woy6 1366 1366
+Xwf6 1369 1369
+Fvw8 1373 1373
+Xct2 1376 1376
+Wx_4 1379 1379
+N_z1 1380 1380
+U_m0 1381 1381
+Bii8 1383 1383
+Obv1 1387 1387
+Twe2 1390 1390
+Rld6 1393 1393
+Abh4 1396 1396
+Vte6 1400 1400
+Fg_8 1401 1401
+C_n0 1403 1403
+Nuv2 1408 1408
+Fgb7 1411 1411
+Byb5 1415 1415
+Nft5 1419 1419
+Msd1 1421 1421
+Gdc4 1422 1422
+Qpl5 1424 1424
+Rke8 1428 1428
+Ibx9 1430 1430
+Kbt0 1435 1435
+Jt_4 1436 1436
+Qz_6 1439 1439
+Ug_0 1441 1441
+N_v8 1445 1445
+Wct3 1448 1448
+Wzb0 1450 1450
+Gom1 1451 1451
+Xgn5 1455 1455
+X_s7 1458 1458
+Tut7 1461 1461
+Jnv2 1462 1462
+J_q0 1466 1466
+Z_c5 1467 1467
+Vlr6 1470 1470
+Gjg6 1472 1472
+Mfo7 1475 1475
+Yry7 1480 1480
+Iuw0 1481 1481
+Awl7 1482 1482
+X_j4 1486 1486
+Whv6 1490 1490
+Hyc1 1492 1492
+Dhr8 1495 1495
+Qdb7 1500 1500
+Qyb9 1503 1503
+Nbf6 1506 1506
+Xw_9 1511 1511
+Phb2 1513 1513
+Usf5 1516 1516
+Kak6 1517 1517
+Tjn0 1522 1522
+Kwo6 1526 1526
+Rsw3 1528 1528
+Iky2 1530 1530
+Izq3 1533 1533
+Zqx3 1537 1537
+Enn2 1538 1538
+E__2 1540 1540
+Bsj9-Bpt2
+Ndu0-Va_4
+Xvg5-Mxw7
+Hek1-Enn2
+Fhu0-Om_5
+Hzk5-Bie8
+Gfp9-Hzk5
+Hzh1-Izq3
+Ajx0-Tjn0
+Jav2-Kak6
+Gfe0-Hzh1
+Ul_7-Fhb9
+Gom1-Jav2
+A_v0-Qdb7
+Mxd7-Mma6
+Bkc7-Oea0
+Ruc6-Plm0
+Yvs4-Hyc1
+Xak3-Whv6
+Ycc7-X_j4
+Gxq3-Awl7
+Que5-Tpi7
+N_z1-Yry7
+Upo5-Bvs5
+Dwd0-Mfo7
+Fin5-Rvw5
+Dok1-Vlr6
+Uit7-Gfp9
+Bp_3-Dhz3
+Ncl4-J_q0
+Iu_2-Jnv2
+Ucb6-Tut7
+J_r9-Xgn5
+Ftp7-Jqu7
+Akc6-Wzb0
+Vag6-Wct3
+Vcu4-N_v8
+Ozp5-Ug_0
+Xsk1-Jt_4
+U_q6-Fin5
+Jwz4-Kbt0
+Vrh6-Ibx9
+Wia1-Rke8
+Yzr0-Gdc4
+Fzb4-Msd1
+Ccm3-Xtr2
+Gaj9-Cyi5
+Rv_7-Sbp2
+Mid0-C_n0
+Xsk1-Fg_8
+Xah7-Rxg0
+Te_6-Jrv0
+Mxd7-Ixp6
+Myc4-Abh4
+Tzo1-Rld6
+Gi_0-Qhe3
+Ayu0-Xsa6
+Mid0-Dso5
+Te_1-Qba1
+Voq7-Nzf5
+Bzx7-Wij9
+Fn_5-N_z1
+I__6-R_u4
+A_y3-Xct2
+Gso7-Iyu6
+Pxp4-Aeo1
+Ghk6-K_t3
+Fn_5-Xkv6
+Ick0-Fvw8
+Bkc7-Rjr3
+X_x3-Ece6
+Tbd2-Woy6
+Gi_0-Jqt8
+Fcv5-Mvh1
+Ggm8-J_r9
+Cfs0-K_h4
+Vag6-N_c2
+Cit7-Yav0
+In_0-Co_9
+Bdh0-Moe5
+Xqx4-Mlv3
+Rzm1-Vxn1
+Jhc3-Ozp5
+Xfv9-Xak3
+Wcj3-Gnf9
+Gjj5-Wcj3
+Ecu0-Gjj5
+Aae8-Zym0
+In_0-Qet7
+Bzx4-In_0
+Gfe0-Fy_1
+Ggm8-Gfe0
+A_g7-Wfo8
+Uho2-A_g7
+Z_o7-Uho2
+Mid0-Z_o7
+Wjo4-E__7
+Htd6-Pj_7
+Ho_8-T_h4
+Tbz0-Ho_8
+U_h3-Tbz0
+Gih5-Fdp6
+Eek8-Mmi7
+U_i7-Eek8
+Te_6-Fzb4
+Fe_0-Ick0
+M_n3-Vpw2
+Xoe6-Gnf9
+Akg7-Omv3
+Nna5-Akg7
+Ca_4-Nna5
+Aih0-Hek1
+Yvt4-Aih0
+Ter2-Fuv7
+Fls6-Ter2
+Teu0-Fls6
+Xbo6-Teu0
+Ipd1-Xbo6
+Srw5-Ipd1
+Pxp4-Gi_0
+Xur7-Pxp4
+Dqy5-Xur7
+Dt_1-Vag6
+Bxe8-Hwp5
+Xpr2-Pzn8
+Wip5-Xpr2
+Vwz7-Wip5
+X_x3-Bik7
+Xfv9-X_x3
+Rqj1-Pdh8
+Ccm3-Fkg1
+Z_l3-Ccm3
+Myv8-Z_l3
+Bkc7-Voq7
+Mxd7-Bkc7
+Zga5-Mxd7
+Jtn4-Xah7
+Mfp8-Jtn4
+G_u0-Mfp8
+Ulh8-G_u0
+Xay7-Ulh8
+Kaj9-Sto8
+Xqx4-Osq0
+Xnt1-Zzd9
+Ncl4-Apj7
+Fja1-Uzm3
+Vcu4-Chy4
+Ucb6-Vcu4
+Zkt5-Ucb6
+Ghc7-Zkt5
+Wop8-Uit7
+Jca6-Zrd4
+Gso7-Jca6
+Ca_6-Cfs0
+Ztu0-Fes1
+Tbi0-Ztu0
+Xcw2-Tbi0
+Jpp6-Ijr0
+Dwd0-Frf4
+Frk1-Xpq9
+Ctd4-Frk1
+Tle4-Ctd4
+Hpa8-Tle4
+Bmi1-Ijg2
+Azr8-Unn3
+Ggi5-Cit1
+Rl_7-Ggi5
+Yje8-Rl_7
+Vhv1-Yje8
+Gig2-Vhv1
+Wmr4-Pgw2
+Wre2-Wmr4
+Dgs0-Wre2
+Wme0-Vki7
+S_t0-Ghk6
+Asy0-Hky2
+Que5-Gnf9
+Dj_1-Que5
+Puh7-Dj_1
+Fn_5-Xwu9
+Ekj6-Azb0
+U_a6-Ekj6
+Zth4-U_a6
+Zzj5-Zth4
+Efo0-Iu_2
+Ihq5-Fwh4
+Myv8-Ihq5
+Fqc1-Fhu0
+Xgl5-Yzr0
+Afl1-Bsj9
+Hkk8-Afl1
+Kym6-Bdh0
+Oif9-Kym6
+Snd1-Oif9
+Myv8-Snd1
+Aad1-Gnf9
+Wky2-Dud8
+Jyl7-Wky2
+Aas5-Jyl7
+Ygx5-Aas5
+Xvg5-Ygx5
+Gaj9-Xvg5
+Gnu7-Ijv7
+Mmy2-Gnu7
+Dkm5-Mmy2
+Sc_4-Oev5
+Tbd2-Twg1
+Ul_7-Hor5
+Xsk1-Ul_7
+Y_w9-Moa3
+J__1-Y_w9
+Fkz1-J__1
+Yxf9-Fkz1
+Tkm4-Yxf9
+Ajx0-Rw_0
+Cnm1-Ajx0
+Kpc1-Cnm1
+Myv8-Kpc1
+Imv9-Fif0
+A_v0-Imv9
+Rzm1-Mbc8
+Dqu9-Rzm1
+Ecc0-Jcf0
+Zwo2-Vl_6
+Pp_0-Zwo2
+Wk_6-Alg1
+Tn_4-Csc6
+U_r3-Jgr8
+Msu0-U_r3
+Ask5-Msu0
+Rvh8-Fcv5
+Ggv7-Xsx3
+Gch5-Ggv7
+Juy1-H_t8
+Ndu0-Juy1
+Skm9-Ndu0
+Myv8-Jhh1
+Gw_8-Rip1
+Gdq6-Ezv7
+Ejw3-Dpn5
+Upo5-Ejw3
+Yvs4-Upo5
+A_s3-Yvs4
+Mfu2-A_s3
+A_k0-Mfu2
+Isa2-A_k0
+Dmz3-Htb1
+Gim5-Gnf9
+Em_4-Gim5
+Usu2-Ycc7
+Efz1-Usu2
+A_y3-Efz1
+Hc_9-A_y3
+Zbo3-Hc_9
+Onm5-Zbo3
+Ok_3-Qvg0
+Byk2-Sem3
+N_x5-Byk2
+Tta7-N_x5
+Jhc3-Gnf9
+M_m8-Hbc3
+Rrs5-Isa0
+Mmk8-Ebr1
+Fci3-Mpy6
+J_z9-Taw5
+M_t3-Rhd5
+Jic7-Sql4
+Dok1-Jic7
+Xtf2-Uon4
+Ayu0-Xtf2
+Te_1-Ayu0
+Myv8-Mrm0
+Mrm0-Tvt7
+Tvt7-Te_1
+Uon4-Dok1
+Sql4-M_t3
+Rhd5-J_z9
+Taw5-Fci3
+Mpy6-Mmk8
+Ebr1-Ysu1
+Ysu1-Rrs5
+Isa0-Ksp7
+Ksp7-M_m8
+Hbc3-Jhc3
+Myv8-Akc6
+Akc6-Tf_4
+Tf_4-Tta7
+Sem3-Gxq3
+Gxq3-Ok_3
+Qvg0-Yh_5
+Yh_5-Rv_3
+Rv_3-Onm5
+Ycc7-Nrl2
+Nrl2-Key2
+Key2-Q_t0
+Q_t0-Hqo2
+Hqo2-Em_4
+Myv8-Ipf8
+Ipf8-Xpp5
+Xpp5-Dmz3
+Htb1-Isa2
+Dpn5-Gdq6
+Ezv7-Gw_8
+Rip1-Gnf9
+Jhh1-Skm9
+H_t8-Dji3
+Dji3-Pac3
+Pac3-Gch5
+Xsx3-Wqn8
+Wqn8-Bwr4
+Bwr4-Bud1
+Bud1-Rvh8
+Fcv5-Ask5
+Jgr8-Ivt1
+Ivt1-Gnf9
+Myv8-Ppg8
+Ppg8-Tn_4
+Csc6-Wk_6
+Alg1-Pp_0
+Vl_6-Cit7
+Cit7-Ecc0
+Jcf0-Dqu9
+Mbc8-A_v0
+Fif0-Gnf9
+Rw_0-Efx0
+Efx0-Tkm4
+Moa3-Ftt0
+Ftt0-Xsk1
+Hor5-Gwb0
+Gwb0-Tbd2
+Twg1-Sc_4
+Oev5-Gnf9
+Myv8-Kij1
+Kij1-Tzo1
+Tzo1-Wpv7
+Wpv7-Blg1
+Blg1-Xey5
+Xey5-Dkm5
+Ijv7-Soy0
+Soy0-Gaj9
+Dud8-Aad1
+Bdh0-Ftp7
+Ftp7-Hkk8
+Bsj9-Ekb7
+Ekb7-Vev7
+Vev7-Xgl5
+Yzr0-Nxg7
+Nxg7-Fqc1
+Fhu0-Zhn1
+Zhn1-Kfn7
+Kfn7-Eum6
+Eum6-Gwi6
+Gwi6-Mgl7
+Mgl7-Gnf9
+Fwh4-Hoe3
+Hoe3-Efo0
+Iu_2-Zzj5
+Azb0-E_y8
+E_y8-Fn_5
+Xwu9-Puh7
+Myv8-Wzx1
+Wzx1-Rpw4
+Rpw4-Rbt9
+Rbt9-Wvd9
+Wvd9-Nfn0
+Nfn0-Asy0
+Hky2-Uxv5
+Uxv5-Tbg2
+Tbg2-T__1
+T__1-S_t0
+Ghk6-Wme0
+Vki7-Cgm3
+Cgm3-Dgs0
+Pgw2-Y_j6
+Y_j6-Uey6
+Uey6-Bzx7
+Bzx7-Gig2
+Cit1-Azr8
+Unn3-Ilh6
+Ilh6-Bmi1
+Ijg2-V_y9
+V_y9-Fuq6
+Fuq6-Ygy9
+Ygy9-I__6
+I__6-Cdr6
+Cdr6-Jwz4
+Jwz4-Hpa8
+Xpq9-Tbs3
+Tbs3-Dwd0
+Frf4-Rhl3
+Rhl3-Gnf9
+Myv8-Fil5
+Fil5-K_j2
+K_j2-Jpp6
+Ijr0-Yvd7
+Yvd7-Xcw2
+Fes1-Ca_6
+Cfs0-Gso7
+Zrd4-Wop8
+Uit7-K_t8
+K_t8-Ghc7
+Chy4-Fja1
+Uzm3-Ncl4
+Apj7-Rv_7
+Rv_7-S_y5
+S_y5-Zng1
+Zng1-Gaq5
+Gaq5-Yyk1
+Yyk1-Ehn8
+Ehn8-Xnt1
+Zzd9-Xqx4
+Osq0-Kny6
+Kny6-Dpp0
+Dpp0-Kaj9
+Sto8-Ers9
+Ers9-Vww1
+Vww1-Quy2
+Quy2-Xay7
+Xah7-Zki2
+Zki2-Zga5
+Voq7-Gnf9
+Fkg1-Rqj1
+Pdh8-Xfv9
+Bik7-Ujc7
+Ujc7-Azb5
+Azb5-Vxe6
+Vxe6-Ukp7
+Ukp7-Vwz7
+Pzn8-Bxe8
+Hwp5-Dt_1
+Vag6-Aqo2
+Aqo2-Dqy5
+Gi_0-P_b9
+P_b9-Srw5
+Fuv7-Yvt4
+Hek1-Nnj1
+Nnj1-Ald5
+Ald5-Ca_4
+Omv3-Xoe6
+Myv8-M_n3
+Vpw2-Wia1
+Wia1-Fe_0
+Ick0-Qdm6
+Qdm6-Te_6
+Fzb4-U_i7
+Mmi7-Gih5
+Fdp6-U_h3
+T_h4-Htd6
+Pj_7-Cpk1
+Cpk1-Wjo4
+E__7-S_x3
+S_x3-Mid0
+Wfo8-Ggm8
+Fy_1-Wyo6
+Wyo6-N_s5
+N_s5-Xfa4
+Xfa4-Bzx4
+Qet7-Aae8
+Zym0-Ecu0
+Frf4-Ruc6
+Z_o7-Azq3
+Pzn8-Ic_2
+Kaj9-Fij8
+Co_9-Qyd0
+Fzb4-Nji3
+Ztu0-Zpv7
+Ezv7-Uwp3
+Moe5-Iqb5
+Ycc7-Y_g8
+N_s5-Urx3
+K_j2-U_q6
+Ic_2-Xwf6
+Hor5-Wx_4
+Gih5-Hda5
+Ayu0-Bax5
+Skm9-Myc4
+Xpq9-U_m0
+Uwp3-Xm_7
+Xfv9-Bii8
+E__7-Vyc1
+U_h3-Obv1
+Alg1-Wvu8
+Quy2-Twe2
+Ers9-Vte6
+Azb0-Nuv2
+Urx3-Fgb7
+N_z1-Byb5
+Rv_7-Ytt0
+Efz1-Nft5
+Hda5-Nqj6
+Cnm1-Bje4
+Y_w9-Qpl5
+Xak3-Vrh6
+Ipd1-Oim6
+Jhh1-Kc_1
+Yvs4-Uen6
+Abh4-Qz_6
+Xbo6-M_y6
+Bwr4-Nxd7
+Dkm5-Ept1
+Wfo8-Wjs7
+Jqt8-Gom1
+Yvd7-X_s7
+Xgn5-Bp_3
+Dmz3-Ziw1
+Pj_7-Z_c5
+Ecc0-Heg0
+Rxg0-Jku1
+Ulh8-Moh9
+Bdh0-Vk_6
+Mbc8-Gjg6
+Nxg7-Tct3
+Jku1-Yki2
+Iyu6-Iuw0
+Bzx7-Vfv2
+Dpp0-Dhr8
+N_x5-Qyb9
+K_j2-Nbf6
+Tkm4-Xw_9
+Vk_6-Hbx0
+Bud1-Phb2
+Wcj3-Egn9
+Voq7-Usf5
+Hpa8-Kwo6
+Ppg8-Rsw3
+Hyc1-Iky2
+Dkm5-Zqx3
+Ijv7-Is_7
+Ujc7-W_x1
+Zkt5-Bz_6
+Qpl5-E__2
+#Here is the number of lines required: 29
 
-[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Dkb0 L2-Fki6 L4-Sji3 L5-Zv_7 L17-Igk8 L24-Cfh7 L25-Jca8 L34-V_d0 L36-Une2 L37-So_6 L49-N_h4 L62-Rbx3 
-[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Ugf3 L6-Dkb0 L2-Yo_4 L3-Fki6 L4-Aof9 L9-Sji3 L5-Eaq6 L10-Zv_7 L17-Anv8 L23-Igk8 L24-Xeg7 L32-Cfh7 L25-Srz4 L33-Jca8 L34-Wko9 L35-V_d0 L36-Jvs9 L47-Une2 L37-Fy_3 L48-So_6 L49-Fqp6 L61-N_h4 L62-Fh_3 L75-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Gge5 L6-Ugf3 L7-Dkb0 L2-Kud4 L3-Yo_4 L8-Fki6 L4-Uqs9 L9-Aof9 L14-Sji3 L5-Ied2 L10-Eaq6 L11-Zv_7 L17-Gag5 L23-Anv8 L31-Igk8 L24-Cng9 L32-Xeg7 L43-Cfh7 L25-Bhf9 L33-Srz4 L44-Jca8 L34-Ycs5 L35-Wko9 L46-V_d0 L36-U__3 L47-Jvs9 L59-Une2 L37-Fhk7 L48-Fy_3 L60-So_6 L49-Tjn4 L61-Fqp6 L74-N_h4 L62-Rx_9 L75-Fh_3 L88-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Vys2 L6-Gge5 L7-Ugf3 L12-Dkb0 L2-Rtt0 L3-Kud4 L8-Yo_4 L13-Fki6 L4-Ocx2 L9-Uqs9 L14-Aof9 L15-Sji3 L5-Bve4 L10-Ied2 L11-Eaq6 L16-Zv_7 L17-Rsu5 L23-Gag5 L31-Anv8 L42-Igk8 L24-Zws8 L32-Cng9 L43-Xeg7 L55-Cfh7 L25-A_i2 L33-Bhf9 L44-Srz4 L45-Jca8 L34-Gfg4 L35-Ycs5 L46-Wko9 L58-V_d0 L36-Kfk0 L47-U__3 L59-Jvs9 L72-Une2 L37-Grh3 L48-Fhk7 L60-Fy_3 L73-So_6 L49-Zxn6 L61-Tjn4 L74-Fqp6 L87-N_h4 L62-Opz9 L75-Rx_9 L88-Fh_3 L101-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Ctd2 L6-Vys2 L7-Gge5 L12-Ugf3 L18-Dkb0 L2-Txg8 L3-Rtt0 L8-Kud4 L13-Yo_4 L19-Fki6 L4-Jyt5 L9-Ocx2 L14-Uqs9 L15-Aof9 L21-Sji3 L5-Jdn4 L10-Bve4 L11-Ied2 L16-Eaq6 L22-Zv_7 L17-Hna4 L23-Rsu5 L31-Gag5 L42-Anv8 L54-Igk8 L24-Ovy3 L32-Zws8 L43-Cng9 L55-Xeg7 L56-Cfh7 L25-Nrj9 L33-A_i2 L44-Bhf9 L45-Srz4 L57-Jca8 L34-Qjw4 L35-Gfg4 L46-Ycs5 L58-Wko9 L71-V_d0 L36-Bnf9 L47-Kfk0 L59-U__3 L72-Jvs9 L85-Une2 L37-Kuf6 L48-Grh3 L60-Fhk7 L73-Fy_3 L86-So_6 L49-Fqf1 L61-Zxn6 L74-Tjn4 L87-Fqp6 L100-N_h4 L62-Pca6 L75-Opz9 L88-Rx_9 L101-Fh_3 L114-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Bar1 L6-Ctd2 L7-Vys2 L12-Gge5 L18-Ugf3 L26-Dkb0 L2-Upy2 L3-Txg8 L8-Rtt0 L13-Kud4 L19-Yo_4 L20-Fki6 L4-Wkh5 L9-Jyt5 L14-Ocx2 L15-Uqs9 L21-Aof9 L29-Sji3 L5-Me_3 L10-Jdn4 L11-Bve4 L16-Ied2 L22-Eaq6 L30-Zv_7 L17-Wmi4 L23-Hna4 L31-Rsu5 L42-Gag5 L54-Anv8 L67-Igk8 L24-Ox_6 L32-Ovy3 L43-Zws8 L55-Cng9 L56-Xeg7 L69-Cfh7 L25-Mgv1 L33-Nrj9 L44-A_i2 L45-Bhf9 L57-Srz4 L70-Jca8 L34-Kla0 L35-Qjw4 L46-Gfg4 L58-Ycs5 L71-Wko9 L84-V_d0 L36-Vs_8 L47-Bnf9 L59-Kfk0 L72-U__3 L85-Jvs9 L98-Une2 L37-Wjp0 L48-Kuf6 L60-Grh3 L73-Fhk7 L86-Fy_3 L99-So_6 L49-E_n3 L61-Fqf1 L74-Zxn6 L87-Tjn4 L100-Fqp6 L113-N_h4 L62-Pnv5 L75-Pca6 L88-Opz9 L101-Rx_9 L114-Fh_3 L127-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Hwn5 L6-Bar1 L7-Ctd2 L12-Vys2 L18-Gge5 L26-Ugf3 L27-Dkb0 L2-Nfa9 L3-Upy2 L8-Txg8 L13-Rtt0 L19-Kud4 L20-Yo_4 L28-Fki6 L4-Rsj3 L9-Wkh5 L14-Jyt5 L15-Ocx2 L21-Uqs9 L29-Aof9 L40-Sji3 L5-Fy_1 L10-Me_3 L11-Jdn4 L16-Bve4 L22-Ied2 L30-Eaq6 L41-Zv_7 L17-Kpv5 L23-Wmi4 L31-Hna4 L42-Rsu5 L54-Gag5 L67-Anv8 L68-Igk8 L24-B_g9 L32-Ox_6 L43-Ovy3 L55-Zws8 L56-Cng9 L69-Xeg7 L82-Cfh7 L25-O_l1 L33-Mgv1 L44-Nrj9 L45-A_i2 L57-Bhf9 L70-Srz4 L83-Jca8 L34-Wur6 L35-Kla0 L46-Qjw4 L58-Gfg4 L71-Ycs5 L84-Wko9 L97-V_d0 L36-Pqo6 L47-Vs_8 L59-Bnf9 L72-Kfk0 L85-U__3 L98-Jvs9 L111-Une2 L37-Tib5 L48-Wjp0 L60-Kuf6 L73-Grh3 L86-Fhk7 L99-Fy_3 L112-So_6 L49-Gta8 L61-E_n3 L74-Fqf1 L87-Zxn6 L100-Tjn4 L113-Fqp6 L126-N_h4 L62-Vvp0 L75-Pnv5 L88-Pca6 L101-Opz9 L114-Rx_9 L127-Fh_3 L128-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Wnq1 L6-Hwn5 L7-Bar1 L12-Ctd2 L18-Vys2 L26-Gge5 L27-Ugf3 L38-Dkb0 L2-Tch8 L3-Nfa9 L8-Upy2 L13-Txg8 L19-Rtt0 L20-Kud4 L28-Yo_4 L39-Fki6 L4-Wdd0 L9-Rsj3 L14-Wkh5 L15-Jyt5 L21-Ocx2 L29-Uqs9 L40-Aof9 L52-Sji3 L5-G_w8 L10-Fy_1 L11-Me_3 L16-Jdn4 L22-Bve4 L30-Ied2 L41-Eaq6 L53-Zv_7 L17-Stt3 L23-Kpv5 L31-Wmi4 L42-Hna4 L54-Rsu5 L67-Gag5 L68-Anv8 L81-Igk8 L24-N_s5 L32-B_g9 L43-Ox_6 L55-Ovy3 L56-Zws8 L69-Cng9 L82-Xeg7 L95-Cfh7 L25-Bt_5 L33-O_l1 L44-Mgv1 L45-Nrj9 L57-A_i2 L70-Bhf9 L83-Srz4 L96-Jca8 L34-Jpd3 L35-Wur6 L46-Kla0 L58-Qjw4 L71-Gfg4 L84-Ycs5 L97-Wko9 L110-V_d0 L36-Hlg5 L47-Pqo6 L59-Vs_8 L72-Bnf9 L85-Kfk0 L98-U__3 L111-Jvs9 L124-Une2 L37-Emi9 L48-Tib5 L60-Wjp0 L73-Kuf6 L86-Grh3 L99-Fhk7 L112-Fy_3 L125-So_6 L49-Pww7 L61-Gta8 L74-E_n3 L87-Fqf1 L100-Zxn6 L113-Tjn4 L126-Fqp6 L139-N_h4 L62-Xlg3 L75-Vvp0 L88-Pnv5 L101-Pca6 L114-Opz9 L127-Rx_9 L128-Fh_3 L141-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Yvj9 L6-Wnq1 L7-Hwn5 L12-Bar1 L18-Ctd2 L26-Vys2 L27-Gge5 L38-Ugf3 L50-Dkb0 L2-Hib4 L3-Tch8 L8-Nfa9 L13-Upy2 L19-Txg8 L20-Rtt0 L28-Kud4 L39-Yo_4 L51-Fki6 L4-Elv7 L9-Wdd0 L14-Rsj3 L15-Wkh5 L21-Jyt5 L29-Ocx2 L40-Uqs9 L52-Aof9 L65-Sji3 L5-Qly2 L10-G_w8 L11-Fy_1 L16-Me_3 L22-Jdn4 L30-Bve4 L41-Ied2 L53-Eaq6 L66-Zv_7 L17-Hif9 L23-Stt3 L31-Kpv5 L42-Wmi4 L54-Hna4 L67-Rsu5 L68-Gag5 L81-Anv8 L94-Igk8 L24-Zwh8 L32-N_s5 L43-B_g9 L55-Ox_6 L56-Ovy3 L69-Zws8 L82-Cng9 L95-Xeg7 L108-Cfh7 L25-Gxs7 L33-Bt_5 L44-O_l1 L45-Mgv1 L57-Nrj9 L70-A_i2 L83-Bhf9 L96-Srz4 L109-Jca8 L34-E_k1 L35-Jpd3 L46-Wur6 L58-Kla0 L71-Qjw4 L84-Gfg4 L97-Ycs5 L110-Wko9 L123-V_d0 L36-Tjt4 L47-Hlg5 L59-Pqo6 L72-Vs_8 L85-Bnf9 L98-Kfk0 L111-U__3 L124-Jvs9 L137-Une2 L37-K_v4 L48-Emi9 L60-Tib5 L73-Wjp0 L86-Kuf6 L99-Grh3 L112-Fhk7 L125-Fy_3 L138-So_6 L49-Jvl3 L61-Pww7 L74-Gta8 L87-E_n3 L100-Fqf1 L113-Zxn6 L126-Tjn4 L139-Fqp6 L140-N_h4 L62-Mfl5 L75-Xlg3 L88-Vvp0 L101-Pnv5 L114-Pca6 L127-Opz9 L128-Rx_9 L141-Fh_3 L154-Rbx3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Cqd4 L6-Yvj9 L7-Wnq1 L12-Hwn5 L18-Bar1 L26-Ctd2 L27-Vys2 L38-Gge5 L50-Ugf3 L63-Dkb0 L2-N_i6 L3-Hib4 L8-Tch8 L13-Nfa9 L19-Upy2 L20-Txg8 L28-Rtt0 L39-Kud4 L51-Yo_4 L64-Fki6 L4-Nr_3 L9-Elv7 L14-Wdd0 L15-Rsj3 L21-Wkh5 L29-Jyt5 L40-Ocx2 L52-Uqs9 L65-Aof9 L78-Sji3 L5-E_v0 L10-Qly2 L11-G_w8 L16-Fy_1 L22-Me_3 L30-Jdn4 L41-Bve4 L53-Ied2 L66-Eaq6 L79-Zv_7 L17-Gce2 L23-Hif9 L31-Stt3 L42-Kpv5 L54-Wmi4 L67-Hna4 L68-Rsu5 L81-Gag5 L94-Anv8 L107-Igk8 L24-Xur7 L32-Zwh8 L43-N_s5 L55-B_g9 L56-Ox_6 L69-Ovy3 L82-Zws8 L95-Cng9 L108-Xeg7 L121-Cfh7 L25-Ktt3 L33-Gxs7 L44-Bt_5 L45-O_l1 L57-Mgv1 L70-Nrj9 L83-A_i2 L96-Bhf9 L109-Srz4 L122-Jca8 L34-Jli4 L35-E_k1 L46-Jpd3 L58-Wur6 L71-Kla0 L84-Qjw4 L97-Gfg4 L110-Ycs5 L123-Wko9 L136-V_d0 L36-J_d7 L47-Tjt4 L59-Hlg5 L72-Pqo6 L85-Vs_8 L98-Bnf9 L111-Kfk0 L124-U__3 L137-Jvs9 L150-Une2 L37-Vq_9 L48-K_v4 L60-Emi9 L73-Tib5 L86-Wjp0 L99-Kuf6 L112-Grh3 L125-Fhk7 L138-Fy_3 L151-So_6 L49-Sjq1 L61-Jvl3 L74-Pww7 L87-Gta8 L100-E_n3 L113-Fqf1 L126-Zxn6 L139-Tjn4 L140-Fqp6 L153-N_h4 L62-Rx_2 L75-Mfl5 L88-Xlg3 L101-Vvp0 L114-Pnv5 L127-Pca6 L128-Opz9 L141-Rx_9 L154-Fh_3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Sj_5 L6-Cqd4 L7-Yvj9 L12-Wnq1 L18-Hwn5 L26-Bar1 L27-Ctd2 L38-Vys2 L50-Gge5 L63-Ugf3 L76-Dkb0 L2-Rwa0 L3-N_i6 L8-Hib4 L13-Tch8 L19-Nfa9 L20-Upy2 L28-Txg8 L39-Rtt0 L51-Kud4 L64-Yo_4 L77-Fki6 L4-Zaw5 L9-Nr_3 L14-Elv7 L15-Wdd0 L21-Rsj3 L29-Wkh5 L40-Jyt5 L52-Ocx2 L65-Uqs9 L78-Aof9 L91-Sji3 L5-Coi0 L10-E_v0 L11-Qly2 L16-G_w8 L22-Fy_1 L30-Me_3 L41-Jdn4 L53-Bve4 L66-Ied2 L79-Eaq6 L80-Zv_7 L17-Dtk8 L23-Gce2 L31-Hif9 L42-Stt3 L54-Kpv5 L67-Wmi4 L68-Hna4 L81-Rsu5 L94-Gag5 L107-Anv8 L120-Igk8 L24-Fos2 L32-Xur7 L43-Zwh8 L55-N_s5 L56-B_g9 L69-Ox_6 L82-Ovy3 L95-Zws8 L108-Cng9 L121-Xeg7 L134-Cfh7 L25-Qdz0 L33-Ktt3 L44-Gxs7 L45-Bt_5 L57-O_l1 L70-Mgv1 L83-Nrj9 L96-A_i2 L109-Bhf9 L122-Srz4 L135-Jca8 L34-Mvj3 L35-Jli4 L46-E_k1 L58-Jpd3 L71-Wur6 L84-Kla0 L97-Qjw4 L110-Gfg4 L123-Ycs5 L136-Wko9 L149-V_d0 L36-Ysv6 L47-J_d7 L59-Tjt4 L72-Hlg5 L85-Pqo6 L98-Vs_8 L111-Bnf9 L124-Kfk0 L137-U__3 L150-Jvs9 L37-Df_1 L48-Vq_9 L60-K_v4 L73-Emi9 L86-Tib5 L99-Wjp0 L112-Kuf6 L125-Grh3 L138-Fhk7 L151-Fy_3 L152-So_6 L49-Nbs8 L61-Sjq1 L74-Jvl3 L87-Pww7 L100-Gta8 L113-E_n3 L126-Fqf1 L139-Zxn6 L140-Tjn4 L153-Fqp6 L62-Haz4 L75-Rx_2 L88-Mfl5 L101-Xlg3 L114-Vvp0 L127-Pnv5 L128-Pca6 L141-Opz9 L154-Rx_9 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Ank1 L6-Sj_5 L7-Cqd4 L12-Yvj9 L18-Wnq1 L26-Hwn5 L27-Bar1 L38-Ctd2 L50-Vys2 L63-Gge5 L76-Ugf3 L89-Dkb0 L2-Dqa1 L3-Rwa0 L8-N_i6 L13-Hib4 L19-Tch8 L20-Nfa9 L28-Upy2 L39-Txg8 L51-Rtt0 L64-Kud4 L77-Yo_4 L90-Fki6 L4-Pv_4 L9-Zaw5 L14-Nr_3 L15-Elv7 L21-Wdd0 L29-Rsj3 L40-Wkh5 L52-Jyt5 L65-Ocx2 L78-Uqs9 L91-Aof9 L92-Sji3 L5-Igp0 L10-Coi0 L11-E_v0 L16-Qly2 L22-G_w8 L30-Fy_1 L41-Me_3 L53-Jdn4 L66-Bve4 L79-Ied2 L80-Eaq6 L93-Zv_7 L17-Wxr3 L23-Dtk8 L31-Gce2 L42-Hif9 L54-Stt3 L67-Kpv5 L68-Wmi4 L81-Hna4 L94-Rsu5 L107-Gag5 L120-Anv8 L133-Igk8 L24-Ayr3 L32-Fos2 L43-Xur7 L55-Zwh8 L56-N_s5 L69-B_g9 L82-Ox_6 L95-Ovy3 L108-Zws8 L121-Cng9 L134-Xeg7 L147-Cfh7 L25-Zw_9 L33-Qdz0 L44-Ktt3 L45-Gxs7 L57-Bt_5 L70-O_l1 L83-Mgv1 L96-Nrj9 L109-A_i2 L122-Bhf9 L135-Srz4 L148-Jca8 L34-Znl7 L35-Mvj3 L46-Jli4 L58-E_k1 L71-Jpd3 L84-Wur6 L97-Kla0 L110-Qjw4 L123-Gfg4 L136-Ycs5 L149-Wko9 L36-Kis3 L47-Ysv6 L59-J_d7 L72-Tjt4 L85-Hlg5 L98-Pqo6 L111-Vs_8 L124-Bnf9 L137-Kfk0 L150-U__3 L37-Wjl7 L48-Df_1 L60-Vq_9 L73-K_v4 L86-Emi9 L99-Tib5 L112-Wjp0 L125-Kuf6 L138-Grh3 L151-Fhk7 L152-Fy_3 L49-Va_2 L61-Nbs8 L74-Sjq1 L87-Jvl3 L100-Pww7 L113-Gta8 L126-E_n3 L139-Fqf1 L140-Zxn6 L153-Tjn4 L62-Y_z1 L75-Haz4 L88-Rx_2 L101-Mfl5 L114-Xlg3 L127-Vvp0 L128-Pnv5 L141-Pca6 L154-Opz9 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Cti0 L6-Ank1 L7-Sj_5 L12-Cqd4 L18-Yvj9 L26-Wnq1 L27-Hwn5 L38-Bar1 L50-Ctd2 L63-Vys2 L76-Gge5 L89-Ugf3 L102-Dkb0 L2-Ipm0 L3-Dqa1 L8-Rwa0 L13-N_i6 L19-Hib4 L20-Tch8 L28-Nfa9 L39-Upy2 L51-Txg8 L64-Rtt0 L77-Kud4 L90-Yo_4 L103-Fki6 L4-Xcy9 L9-Pv_4 L14-Zaw5 L15-Nr_3 L21-Elv7 L29-Wdd0 L40-Rsj3 L52-Wkh5 L65-Jyt5 L78-Ocx2 L91-Uqs9 L92-Aof9 L105-Sji3 L5-Kox0 L10-Igp0 L11-Coi0 L16-E_v0 L22-Qly2 L30-G_w8 L41-Fy_1 L53-Me_3 L66-Jdn4 L79-Bve4 L80-Ied2 L93-Eaq6 L106-Zv_7 L17-Pdr4 L23-Wxr3 L31-Dtk8 L42-Gce2 L54-Hif9 L67-Stt3 L68-Kpv5 L81-Wmi4 L94-Hna4 L107-Rsu5 L120-Gag5 L133-Anv8 L146-Igk8 L24-Gaz0 L32-Ayr3 L43-Fos2 L55-Xur7 L56-Zwh8 L69-N_s5 L82-B_g9 L95-Ox_6 L108-Ovy3 L121-Zws8 L134-Cng9 L147-Xeg7 L25-I_e8 L33-Zw_9 L44-Qdz0 L45-Ktt3 L57-Gxs7 L70-Bt_5 L83-O_l1 L96-Mgv1 L109-Nrj9 L122-A_i2 L135-Bhf9 L148-Srz4 L34-D_v1 L35-Znl7 L46-Mvj3 L58-Jli4 L71-E_k1 L84-Jpd3 L97-Wur6 L110-Kla0 L123-Qjw4 L136-Gfg4 L149-Ycs5 L36-Bow4 L47-Kis3 L59-Ysv6 L72-J_d7 L85-Tjt4 L98-Hlg5 L111-Pqo6 L124-Vs_8 L137-Bnf9 L150-Kfk0 L37-G__9 L48-Wjl7 L60-Df_1 L73-Vq_9 L86-K_v4 L99-Emi9 L112-Tib5 L125-Wjp0 L138-Kuf6 L151-Grh3 L152-Fhk7 L49-Vcq8 L61-Va_2 L74-Nbs8 L87-Sjq1 L100-Jvl3 L113-Pww7 L126-Gta8 L139-E_n3 L140-Fqf1 L153-Zxn6 L62-Byq4 L75-Y_z1 L88-Haz4 L101-Rx_2 L114-Mfl5 L127-Xlg3 L128-Vvp0 L141-Pnv5 L154-Pca6 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Ent5 L6-Cti0 L7-Ank1 L12-Sj_5 L18-Cqd4 L26-Yvj9 L27-Wnq1 L38-Hwn5 L50-Bar1 L63-Ctd2 L76-Vys2 L89-Gge5 L102-Ugf3 L115-Dkb0 L2-Dfg2 L3-Ipm0 L8-Dqa1 L13-Rwa0 L19-N_i6 L20-Hib4 L28-Tch8 L39-Nfa9 L51-Upy2 L64-Txg8 L77-Rtt0 L90-Kud4 L103-Yo_4 L104-Fki6 L4-Ani6 L9-Xcy9 L14-Pv_4 L15-Zaw5 L21-Nr_3 L29-Elv7 L40-Wdd0 L52-Rsj3 L65-Wkh5 L78-Jyt5 L91-Ocx2 L92-Uqs9 L105-Aof9 L118-Sji3 L5-Bng5 L10-Kox0 L11-Igp0 L16-Coi0 L22-E_v0 L30-Qly2 L41-G_w8 L53-Fy_1 L66-Me_3 L79-Jdn4 L80-Bve4 L93-Ied2 L106-Eaq6 L119-Zv_7 L17-Qff6 L23-Pdr4 L31-Wxr3 L42-Dtk8 L54-Gce2 L67-Hif9 L68-Stt3 L81-Kpv5 L94-Wmi4 L107-Hna4 L120-Rsu5 L133-Gag5 L146-Anv8 L24-Psv3 L32-Gaz0 L43-Ayr3 L55-Fos2 L56-Xur7 L69-Zwh8 L82-N_s5 L95-B_g9 L108-Ox_6 L121-Ovy3 L134-Zws8 L147-Cng9 L25-N_i0 L33-I_e8 L44-Zw_9 L45-Qdz0 L57-Ktt3 L70-Gxs7 L83-Bt_5 L96-O_l1 L109-Mgv1 L122-Nrj9 L135-A_i2 L148-Bhf9 L34-Bfi1 L35-D_v1 L46-Znl7 L58-Mvj3 L71-Jli4 L84-E_k1 L97-Jpd3 L110-Wur6 L123-Kla0 L136-Qjw4 L149-Gfg4 L36-Bct9 L47-Bow4 L59-Kis3 L72-Ysv6 L85-J_d7 L98-Tjt4 L111-Hlg5 L124-Pqo6 L137-Vs_8 L150-Bnf9 L37-Sms1 L48-G__9 L60-Wjl7 L73-Df_1 L86-Vq_9 L99-K_v4 L112-Emi9 L125-Tib5 L138-Wjp0 L151-Kuf6 L152-Grh3 L49-Pm_4 L61-Vcq8 L74-Va_2 L87-Nbs8 L100-Sjq1 L113-Jvl3 L126-Pww7 L139-Gta8 L140-E_n3 L153-Fqf1 L62-Ypr5 L75-Byq4 L88-Y_z1 L101-Haz4 L114-Rx_2 L127-Mfl5 L128-Xlg3 L141-Vvp0 L154-Pnv5 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Gxm1 L6-Ent5 L7-Cti0 L12-Ank1 L18-Sj_5 L26-Cqd4 L27-Yvj9 L38-Wnq1 L50-Hwn5 L63-Bar1 L76-Ctd2 L89-Vys2 L102-Gge5 L115-Ugf3 L116-Dkb0 L2-Udk9 L3-Dfg2 L8-Ipm0 L13-Dqa1 L19-Rwa0 L20-N_i6 L28-Hib4 L39-Tch8 L51-Nfa9 L64-Upy2 L77-Txg8 L90-Rtt0 L103-Kud4 L104-Yo_4 L117-Fki6 L4-Jgk4 L9-Ani6 L14-Xcy9 L15-Pv_4 L21-Zaw5 L29-Nr_3 L40-Elv7 L52-Wdd0 L65-Rsj3 L78-Wkh5 L91-Jyt5 L92-Ocx2 L105-Uqs9 L118-Aof9 L131-Sji3 L5-Kgr7 L10-Bng5 L11-Kox0 L16-Igp0 L22-Coi0 L30-E_v0 L41-Qly2 L53-G_w8 L66-Fy_1 L79-Me_3 L80-Jdn4 L93-Bve4 L106-Ied2 L119-Eaq6 L132-Zv_7 L17-Akg4 L23-Qff6 L31-Pdr4 L42-Wxr3 L54-Dtk8 L67-Gce2 L68-Hif9 L81-Stt3 L94-Kpv5 L107-Wmi4 L120-Hna4 L133-Rsu5 L146-Gag5 L24-Nam4 L32-Psv3 L43-Gaz0 L55-Ayr3 L56-Fos2 L69-Xur7 L82-Zwh8 L95-N_s5 L108-B_g9 L121-Ox_6 L134-Ovy3 L147-Zws8 L25-Hx_4 L33-N_i0 L44-I_e8 L45-Zw_9 L57-Qdz0 L70-Ktt3 L83-Gxs7 L96-Bt_5 L109-O_l1 L122-Mgv1 L135-Nrj9 L148-A_i2 L34-Nfb3 L35-Bfi1 L46-D_v1 L58-Znl7 L71-Mvj3 L84-Jli4 L97-E_k1 L110-Jpd3 L123-Wur6 L136-Kla0 L149-Qjw4 L36-Nvq1 L47-Bct9 L59-Bow4 L72-Kis3 L85-Ysv6 L98-J_d7 L111-Tjt4 L124-Hlg5 L137-Pqo6 L150-Vs_8 L37-Syx3 L48-Sms1 L60-G__9 L73-Wjl7 L86-Df_1 L99-Vq_9 L112-K_v4 L125-Emi9 L138-Tib5 L151-Wjp0 L152-Kuf6 L49-Tjx7 L61-Pm_4 L74-Vcq8 L87-Va_2 L100-Nbs8 L113-Sjq1 L126-Jvl3 L139-Pww7 L140-Gta8 L153-E_n3 L62-Zwq1 L75-Ypr5 L88-Byq4 L101-Y_z1 L114-Haz4 L127-Rx_2 L128-Mfl5 L141-Xlg3 L154-Vvp0 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL1-Hgx6 L6-Gxm1 L7-Ent5 L12-Cti0 L18-Ank1 L26-Sj_5 L27-Cqd4 L38-Yvj9 L50-Wnq1 L63-Hwn5 L76-Bar1 L89-Ctd2 L102-Vys2 L115-Gge5 L116-Ugf3 L129-Dkb0 L2-Hgx6 L3-Udk9 L8-Dfg2 L13-Ipm0 L19-Dqa1 L20-Rwa0 L28-N_i6 L39-Hib4 L51-Tch8 L64-Nfa9 L77-Upy2 L90-Txg8 L103-Rtt0 L104-Kud4 L117-Yo_4 L130-Fki6 L4-Dsc4 L9-Jgk4 L14-Ani6 L15-Xcy9 L21-Pv_4 L29-Zaw5 L40-Nr_3 L52-Elv7 L65-Wdd0 L78-Rsj3 L91-Wkh5 L92-Jyt5 L105-Ocx2 L118-Uqs9 L131-Aof9 L144-Sji3 L5-Kbz2 L10-Kgr7 L11-Bng5 L16-Kox0 L22-Igp0 L30-Coi0 L41-E_v0 L53-Qly2 L66-G_w8 L79-Fy_1 L80-Me_3 L93-Jdn4 L106-Bve4 L119-Ied2 L132-Eaq6 L145-Zv_7 L17-Ock8 L23-Akg4 L31-Qff6 L42-Pdr4 L54-Wxr3 L67-Dtk8 L68-Gce2 L81-Hif9 L94-Stt3 L107-Kpv5 L120-Wmi4 L133-Hna4 L146-Rsu5 L24-Cgc6 L32-Nam4 L43-Psv3 L55-Gaz0 L56-Ayr3 L69-Fos2 L82-Xur7 L95-Zwh8 L108-N_s5 L121-B_g9 L134-Ox_6 L147-Ovy3 L25-Hjz8 L33-Hx_4 L44-N_i0 L45-I_e8 L57-Zw_9 L70-Qdz0 L83-Ktt3 L96-Gxs7 L109-Bt_5 L122-O_l1 L135-Mgv1 L148-Nrj9 L34-Mad5 L35-Nfb3 L46-Bfi1 L58-D_v1 L71-Znl7 L84-Mvj3 L97-Jli4 L110-E_k1 L123-Jpd3 L136-Wur6 L149-Kla0 L36-V_z6 L47-Nvq1 L59-Bct9 L72-Bow4 L85-Kis3 L98-Ysv6 L111-J_d7 L124-Tjt4 L137-Hlg5 L150-Pqo6 L37-Ysx8 L48-Syx3 L60-Sms1 L73-G__9 L86-Wjl7 L99-Df_1 L112-Vq_9 L125-K_v4 L138-Emi9 L151-Tib5 L152-Wjp0 L49-Pio2 L61-Tjx7 L74-Pm_4 L87-Vcq8 L100-Va_2 L113-Nbs8 L126-Sjq1 L139-Jvl3 L140-Pww7 L153-Gta8 L62-Jex1 L75-Zwq1 L88-Ypr5 L101-Byq4 L114-Y_z1 L127-Haz4 L128-Rx_2 L141-Mfl5 L154-Xlg3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL6-Hgx6 L7-Gxm1 L12-Ent5 L18-Cti0 L26-Ank1 L27-Sj_5 L38-Cqd4 L50-Yvj9 L63-Wnq1 L76-Hwn5 L89-Bar1 L102-Ctd2 L115-Vys2 L116-Gge5 L129-Ugf3 L142-Dkb0 L3-Hgx6 L8-Udk9 L13-Dfg2 L19-Ipm0 L20-Dqa1 L28-Rwa0 L39-N_i6 L51-Hib4 L64-Tch8 L77-Nfa9 L90-Upy2 L103-Txg8 L104-Rtt0 L117-Kud4 L130-Yo_4 L143-Fki6 L4-Hgx6 L9-Dsc4 L14-Jgk4 L15-Ani6 L21-Xcy9 L29-Pv_4 L40-Zaw5 L52-Nr_3 L65-Elv7 L78-Wdd0 L91-Rsj3 L92-Wkh5 L105-Jyt5 L118-Ocx2 L131-Uqs9 L144-Aof9 L157-Sji3 L5-Hgx6 L10-Kbz2 L11-Kgr7 L16-Bng5 L22-Kox0 L30-Igp0 L41-Coi0 L53-E_v0 L66-Qly2 L79-G_w8 L80-Fy_1 L93-Me_3 L106-Jdn4 L119-Bve4 L132-Ied2 L145-Eaq6 L158-Zv_7 L17-Qju5 L23-Ock8 L31-Akg4 L42-Qff6 L54-Pdr4 L67-Wxr3 L68-Dtk8 L81-Gce2 L94-Hif9 L107-Stt3 L120-Kpv5 L133-Wmi4 L146-Hna4 L24-Zrd2 L32-Cgc6 L43-Nam4 L55-Psv3 L56-Gaz0 L69-Ayr3 L82-Fos2 L95-Xur7 L108-Zwh8 L121-N_s5 L134-B_g9 L147-Ox_6 L25-Giq0 L33-Hjz8 L44-Hx_4 L45-N_i0 L57-I_e8 L70-Zw_9 L83-Qdz0 L96-Ktt3 L109-Gxs7 L122-Bt_5 L135-O_l1 L148-Mgv1 L34-Zok6 L35-Mad5 L46-Nfb3 L58-Bfi1 L71-D_v1 L84-Znl7 L97-Mvj3 L110-Jli4 L123-E_k1 L136-Jpd3 L149-Wur6 L36-Fdo5 L47-V_z6 L59-Nvq1 L72-Bct9 L85-Bow4 L98-Kis3 L111-Ysv6 L124-J_d7 L137-Tjt4 L150-Hlg5 L37-Mca1 L48-Ysx8 L60-Syx3 L73-Sms1 L86-G__9 L99-Wjl7 L112-Df_1 L125-Vq_9 L138-K_v4 L151-Emi9 L152-Tib5 L49-Wfq8 L61-Pio2 L74-Tjx7 L87-Pm_4 L100-Vcq8 L113-Va_2 L126-Nbs8 L139-Sjq1 L140-Jvl3 L153-Pww7 L62-Tyq3 L75-Jex1 L88-Zwq1 L101-Ypr5 L114-Byq4 L127-Y_z1 L128-Haz4 L141-Rx_2 L154-Mfl5 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL7-Hgx6 L12-Gxm1 L18-Ent5 L26-Cti0 L27-Ank1 L38-Sj_5 L50-Cqd4 L63-Yvj9 L76-Wnq1 L89-Hwn5 L102-Bar1 L115-Ctd2 L116-Vys2 L129-Gge5 L142-Ugf3 L155-Dkb0 L8-Hgx6 L13-Udk9 L19-Dfg2 L20-Ipm0 L28-Dqa1 L39-Rwa0 L51-N_i6 L64-Hib4 L77-Tch8 L90-Nfa9 L103-Upy2 L104-Txg8 L117-Rtt0 L130-Kud4 L143-Yo_4 L156-Fki6 L9-Hgx6 L14-Dsc4 L15-Jgk4 L21-Ani6 L29-Xcy9 L40-Pv_4 L52-Zaw5 L65-Nr_3 L78-Elv7 L91-Wdd0 L92-Rsj3 L105-Wkh5 L118-Jyt5 L131-Ocx2 L144-Uqs9 L157-Aof9 L10-Hgx6 L11-Kbz2 L16-Kgr7 L22-Bng5 L30-Kox0 L41-Igp0 L53-Coi0 L66-E_v0 L79-Qly2 L80-G_w8 L93-Fy_1 L106-Me_3 L119-Jdn4 L132-Bve4 L145-Ied2 L158-Eaq6 L17-Cza3 L23-Qju5 L31-Ock8 L42-Akg4 L54-Qff6 L67-Pdr4 L68-Wxr3 L81-Dtk8 L94-Gce2 L107-Hif9 L120-Stt3 L133-Kpv5 L146-Wmi4 L24-Iny6 L32-Zrd2 L43-Cgc6 L55-Nam4 L56-Psv3 L69-Gaz0 L82-Ayr3 L95-Fos2 L108-Xur7 L121-Zwh8 L134-N_s5 L147-B_g9 L25-Pq_0 L33-Giq0 L44-Hjz8 L45-Hx_4 L57-N_i0 L70-I_e8 L83-Zw_9 L96-Qdz0 L109-Ktt3 L122-Gxs7 L135-Bt_5 L148-O_l1 L34-Pxx2 L35-Zok6 L46-Mad5 L58-Nfb3 L71-Bfi1 L84-D_v1 L97-Znl7 L110-Mvj3 L123-Jli4 L136-E_k1 L149-Jpd3 L36-Tjh4 L47-Fdo5 L59-V_z6 L72-Nvq1 L85-Bct9 L98-Bow4 L111-Kis3 L124-Ysv6 L137-J_d7 L150-Tjt4 L37-Bxf2 L48-Mca1 L60-Ysx8 L73-Syx3 L86-Sms1 L99-G__9 L112-Wjl7 L125-Df_1 L138-Vq_9 L151-K_v4 L152-Emi9 L49-Gqr7 L61-Wfq8 L74-Pio2 L87-Tjx7 L100-Pm_4 L113-Vcq8 L126-Va_2 L139-Nbs8 L140-Sjq1 L153-Jvl3 L62-Rbj4 L75-Tyq3 L88-Jex1 L101-Zwq1 L114-Ypr5 L127-Byq4 L128-Y_z1 L141-Haz4 L154-Rx_2 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL12-Hgx6 L18-Gxm1 L26-Ent5 L27-Cti0 L38-Ank1 L50-Sj_5 L63-Cqd4 L76-Yvj9 L89-Wnq1 L102-Hwn5 L115-Bar1 L116-Ctd2 L129-Vys2 L142-Gge5 L155-Ugf3 L13-Hgx6 L19-Udk9 L20-Dfg2 L28-Ipm0 L39-Dqa1 L51-Rwa0 L64-N_i6 L77-Hib4 L90-Tch8 L103-Nfa9 L104-Upy2 L117-Txg8 L130-Rtt0 L143-Kud4 L156-Yo_4 L14-Hgx6 L15-Dsc4 L21-Jgk4 L29-Ani6 L40-Xcy9 L52-Pv_4 L65-Zaw5 L78-Nr_3 L91-Elv7 L92-Wdd0 L105-Rsj3 L118-Wkh5 L131-Jyt5 L144-Ocx2 L157-Uqs9 L11-Hgx6 L16-Kbz2 L22-Kgr7 L30-Bng5 L41-Kox0 L53-Igp0 L66-Coi0 L79-E_v0 L80-Qly2 L93-G_w8 L106-Fy_1 L119-Me_3 L132-Jdn4 L145-Bve4 L158-Ied2 L17-Wyo7 L23-Cza3 L31-Qju5 L42-Ock8 L54-Akg4 L67-Qff6 L68-Pdr4 L81-Wxr3 L94-Dtk8 L107-Gce2 L120-Hif9 L133-Stt3 L146-Kpv5 L24-Uba8 L32-Iny6 L43-Zrd2 L55-Cgc6 L56-Nam4 L69-Psv3 L82-Gaz0 L95-Ayr3 L108-Fos2 L121-Xur7 L134-Zwh8 L147-N_s5 L25-Rtl6 L33-Pq_0 L44-Giq0 L45-Hjz8 L57-Hx_4 L70-N_i0 L83-I_e8 L96-Zw_9 L109-Qdz0 L122-Ktt3 L135-Gxs7 L148-Bt_5 L34-Smx2 L35-Pxx2 L46-Zok6 L58-Mad5 L71-Nfb3 L84-Bfi1 L97-D_v1 L110-Znl7 L123-Mvj3 L136-Jli4 L149-E_k1 L36-Ofl2 L47-Tjh4 L59-Fdo5 L72-V_z6 L85-Nvq1 L98-Bct9 L111-Bow4 L124-Kis3 L137-Ysv6 L150-J_d7 L37-Dos3 L48-Bxf2 L60-Mca1 L73-Ysx8 L86-Syx3 L99-Sms1 L112-G__9 L125-Wjl7 L138-Df_1 L151-Vq_9 L152-K_v4 L49-Sjd5 L61-Gqr7 L74-Wfq8 L87-Pio2 L100-Tjx7 L113-Pm_4 L126-Vcq8 L139-Va_2 L140-Nbs8 L153-Sjq1 L62-Tdg3 L75-Rbj4 L88-Tyq3 L101-Jex1 L114-Zwq1 L127-Ypr5 L128-Byq4 L141-Y_z1 L154-Haz4 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL18-Hgx6 L26-Gxm1 L27-Ent5 L38-Cti0 L50-Ank1 L63-Sj_5 L76-Cqd4 L89-Yvj9 L102-Wnq1 L115-Hwn5 L116-Bar1 L129-Ctd2 L142-Vys2 L155-Gge5 L19-Hgx6 L20-Udk9 L28-Dfg2 L39-Ipm0 L51-Dqa1 L64-Rwa0 L77-N_i6 L90-Hib4 L103-Tch8 L104-Nfa9 L117-Upy2 L130-Txg8 L143-Rtt0 L156-Kud4 L15-Hgx6 L21-Dsc4 L29-Jgk4 L40-Ani6 L52-Xcy9 L65-Pv_4 L78-Zaw5 L91-Nr_3 L92-Elv7 L105-Wdd0 L118-Rsj3 L131-Wkh5 L144-Jyt5 L157-Ocx2 L16-Hgx6 L22-Kbz2 L30-Kgr7 L41-Bng5 L53-Kox0 L66-Igp0 L79-Coi0 L80-E_v0 L93-Qly2 L106-G_w8 L119-Fy_1 L132-Me_3 L145-Jdn4 L158-Bve4 L17-Hgx6 L23-Wyo7 L31-Cza3 L42-Qju5 L54-Ock8 L67-Akg4 L68-Qff6 L81-Pdr4 L94-Wxr3 L107-Dtk8 L120-Gce2 L133-Hif9 L146-Stt3 L24-Rix7 L32-Uba8 L43-Iny6 L55-Zrd2 L56-Cgc6 L69-Nam4 L82-Psv3 L95-Gaz0 L108-Ayr3 L121-Fos2 L134-Xur7 L147-Zwh8 L25-Gnd9 L33-Rtl6 L44-Pq_0 L45-Giq0 L57-Hjz8 L70-Hx_4 L83-N_i0 L96-I_e8 L109-Zw_9 L122-Qdz0 L135-Ktt3 L148-Gxs7 L34-Urd1 L35-Smx2 L46-Pxx2 L58-Zok6 L71-Mad5 L84-Nfb3 L97-Bfi1 L110-D_v1 L123-Znl7 L136-Mvj3 L149-Jli4 L36-Fbn2 L47-Ofl2 L59-Tjh4 L72-Fdo5 L85-V_z6 L98-Nvq1 L111-Bct9 L124-Bow4 L137-Kis3 L150-Ysv6 L37-Xvz3 L48-Dos3 L60-Bxf2 L73-Mca1 L86-Ysx8 L99-Syx3 L112-Sms1 L125-G__9 L138-Wjl7 L151-Df_1 L152-Vq_9 L49-Tct8 L61-Sjd5 L74-Gqr7 L87-Wfq8 L100-Pio2 L113-Tjx7 L126-Pm_4 L139-Vcq8 L140-Va_2 L153-Nbs8 L62-Paj6 L75-Tdg3 L88-Rbj4 L101-Tyq3 L114-Jex1 L127-Zwq1 L128-Ypr5 L141-Byq4 L154-Y_z1 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL26-Hgx6 L27-Gxm1 L38-Ent5 L50-Cti0 L63-Ank1 L76-Sj_5 L89-Cqd4 L102-Yvj9 L115-Wnq1 L116-Hwn5 L129-Bar1 L142-Ctd2 L155-Vys2 L20-Hgx6 L28-Udk9 L39-Dfg2 L51-Ipm0 L64-Dqa1 L77-Rwa0 L90-N_i6 L103-Hib4 L104-Tch8 L117-Nfa9 L130-Upy2 L143-Txg8 L156-Rtt0 L21-Hgx6 L29-Dsc4 L40-Jgk4 L52-Ani6 L65-Xcy9 L78-Pv_4 L91-Zaw5 L92-Nr_3 L105-Elv7 L118-Wdd0 L131-Rsj3 L144-Wkh5 L157-Jyt5 L22-Hgx6 L30-Kbz2 L41-Kgr7 L53-Bng5 L66-Kox0 L79-Igp0 L80-Coi0 L93-E_v0 L106-Qly2 L119-G_w8 L132-Fy_1 L145-Me_3 L158-Jdn4 L23-Hgx6 L31-Wyo7 L42-Cza3 L54-Qju5 L67-Ock8 L68-Akg4 L81-Qff6 L94-Pdr4 L107-Wxr3 L120-Dtk8 L133-Gce2 L146-Hif9 L24-Hgx6 L32-Rix7 L43-Uba8 L55-Iny6 L56-Zrd2 L69-Cgc6 L82-Nam4 L95-Psv3 L108-Gaz0 L121-Ayr3 L134-Fos2 L147-Xur7 L25-Hgx6 L33-Gnd9 L44-Rtl6 L45-Pq_0 L57-Giq0 L70-Hjz8 L83-Hx_4 L96-N_i0 L109-I_e8 L122-Zw_9 L135-Qdz0 L148-Ktt3 L34-Dwd8 L35-Urd1 L46-Smx2 L58-Pxx2 L71-Zok6 L84-Mad5 L97-Nfb3 L110-Bfi1 L123-D_v1 L136-Znl7 L149-Mvj3 L36-Srs7 L47-Fbn2 L59-Ofl2 L72-Tjh4 L85-Fdo5 L98-V_z6 L111-Nvq1 L124-Bct9 L137-Bow4 L150-Kis3 L37-Wno0 L48-Xvz3 L60-Dos3 L73-Bxf2 L86-Mca1 L99-Ysx8 L112-Syx3 L125-Sms1 L138-G__9 L151-Wjl7 L152-Df_1 L49-P_f0 L61-Tct8 L74-Sjd5 L87-Gqr7 L100-Wfq8 L113-Pio2 L126-Tjx7 L139-Pm_4 L140-Vcq8 L153-Va_2 L62-T_q5 L75-Paj6 L88-Tdg3 L101-Rbj4 L114-Tyq3 L127-Jex1 L128-Zwq1 L141-Ypr5 L154-Byq4 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL27-Hgx6 L38-Gxm1 L50-Ent5 L63-Cti0 L76-Ank1 L89-Sj_5 L102-Cqd4 L115-Yvj9 L116-Wnq1 L129-Hwn5 L142-Bar1 L155-Ctd2 L28-Hgx6 L39-Udk9 L51-Dfg2 L64-Ipm0 L77-Dqa1 L90-Rwa0 L103-N_i6 L104-Hib4 L117-Tch8 L130-Nfa9 L143-Upy2 L156-Txg8 L29-Hgx6 L40-Dsc4 L52-Jgk4 L65-Ani6 L78-Xcy9 L91-Pv_4 L92-Zaw5 L105-Nr_3 L118-Elv7 L131-Wdd0 L144-Rsj3 L157-Wkh5 L30-Hgx6 L41-Kbz2 L53-Kgr7 L66-Bng5 L79-Kox0 L80-Igp0 L93-Coi0 L106-E_v0 L119-Qly2 L132-G_w8 L145-Fy_1 L158-Me_3 L31-Hgx6 L42-Wyo7 L54-Cza3 L67-Qju5 L68-Ock8 L81-Akg4 L94-Qff6 L107-Pdr4 L120-Wxr3 L133-Dtk8 L146-Gce2 L32-Hgx6 L43-Rix7 L55-Uba8 L56-Iny6 L69-Zrd2 L82-Cgc6 L95-Nam4 L108-Psv3 L121-Gaz0 L134-Ayr3 L147-Fos2 L33-Hgx6 L44-Gnd9 L45-Rtl6 L57-Pq_0 L70-Giq0 L83-Hjz8 L96-Hx_4 L109-N_i0 L122-I_e8 L135-Zw_9 L148-Qdz0 L34-Hgx6 L35-Dwd8 L46-Urd1 L58-Smx2 L71-Pxx2 L84-Zok6 L97-Mad5 L110-Nfb3 L123-Bfi1 L136-D_v1 L149-Znl7 L36-Obk3 L47-Srs7 L59-Fbn2 L72-Ofl2 L85-Tjh4 L98-Fdo5 L111-V_z6 L124-Nvq1 L137-Bct9 L150-Bow4 L37-Gna0 L48-Wno0 L60-Xvz3 L73-Dos3 L86-Bxf2 L99-Mca1 L112-Ysx8 L125-Syx3 L138-Sms1 L151-G__9 L152-Wjl7 L49-Ibh0 L61-P_f0 L74-Tct8 L87-Sjd5 L100-Gqr7 L113-Wfq8 L126-Pio2 L139-Tjx7 L140-Pm_4 L153-Vcq8 L62-Bvf8 L75-T_q5 L88-Paj6 L101-Tdg3 L114-Rbj4 L127-Tyq3 L128-Jex1 L141-Zwq1 L154-Ypr5 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL38-Hgx6 L50-Gxm1 L63-Ent5 L76-Cti0 L89-Ank1 L102-Sj_5 L115-Cqd4 L116-Yvj9 L129-Wnq1 L142-Hwn5 L155-Bar1 L39-Hgx6 L51-Udk9 L64-Dfg2 L77-Ipm0 L90-Dqa1 L103-Rwa0 L104-N_i6 L117-Hib4 L130-Tch8 L143-Nfa9 L156-Upy2 L40-Hgx6 L52-Dsc4 L65-Jgk4 L78-Ani6 L91-Xcy9 L92-Pv_4 L105-Zaw5 L118-Nr_3 L131-Elv7 L144-Wdd0 L157-Rsj3 L41-Hgx6 L53-Kbz2 L66-Kgr7 L79-Bng5 L80-Kox0 L93-Igp0 L106-Coi0 L119-E_v0 L132-Qly2 L145-G_w8 L158-Fy_1 L42-Hgx6 L54-Wyo7 L67-Cza3 L68-Qju5 L81-Ock8 L94-Akg4 L107-Qff6 L120-Pdr4 L133-Wxr3 L146-Dtk8 L43-Hgx6 L55-Rix7 L56-Uba8 L69-Iny6 L82-Zrd2 L95-Cgc6 L108-Nam4 L121-Psv3 L134-Gaz0 L147-Ayr3 L44-Hgx6 L45-Gnd9 L57-Rtl6 L70-Pq_0 L83-Giq0 L96-Hjz8 L109-Hx_4 L122-N_i0 L135-I_e8 L148-Zw_9 L35-Hgx6 L46-Dwd8 L58-Urd1 L71-Smx2 L84-Pxx2 L97-Zok6 L110-Mad5 L123-Nfb3 L136-Bfi1 L149-D_v1 L36-Hgx6 L47-Obk3 L59-Srs7 L72-Fbn2 L85-Ofl2 L98-Tjh4 L111-Fdo5 L124-V_z6 L137-Nvq1 L150-Bct9 L37-Hgx6 L48-Gna0 L60-Wno0 L73-Xvz3 L86-Dos3 L99-Bxf2 L112-Mca1 L125-Ysx8 L138-Syx3 L151-Sms1 L152-G__9 L49-Ojy9 L61-Ibh0 L74-P_f0 L87-Tct8 L100-Sjd5 L113-Gqr7 L126-Wfq8 L139-Pio2 L140-Tjx7 L153-Pm_4 L62-Kqg4 L75-Bvf8 L88-T_q5 L101-Paj6 L114-Tdg3 L127-Rbj4 L128-Tyq3 L141-Jex1 L154-Zwq1 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL50-Hgx6 L63-Gxm1 L76-Ent5 L89-Cti0 L102-Ank1 L115-Sj_5 L116-Cqd4 L129-Yvj9 L142-Wnq1 L155-Hwn5 L51-Hgx6 L64-Udk9 L77-Dfg2 L90-Ipm0 L103-Dqa1 L104-Rwa0 L117-N_i6 L130-Hib4 L143-Tch8 L156-Nfa9 L52-Hgx6 L65-Dsc4 L78-Jgk4 L91-Ani6 L92-Xcy9 L105-Pv_4 L118-Zaw5 L131-Nr_3 L144-Elv7 L157-Wdd0 L53-Hgx6 L66-Kbz2 L79-Kgr7 L80-Bng5 L93-Kox0 L106-Igp0 L119-Coi0 L132-E_v0 L145-Qly2 L158-G_w8 L54-Hgx6 L67-Wyo7 L68-Cza3 L81-Qju5 L94-Ock8 L107-Akg4 L120-Qff6 L133-Pdr4 L146-Wxr3 L55-Hgx6 L56-Rix7 L69-Uba8 L82-Iny6 L95-Zrd2 L108-Cgc6 L121-Nam4 L134-Psv3 L147-Gaz0 L45-Hgx6 L57-Gnd9 L70-Rtl6 L83-Pq_0 L96-Giq0 L109-Hjz8 L122-Hx_4 L135-N_i0 L148-I_e8 L46-Hgx6 L58-Dwd8 L71-Urd1 L84-Smx2 L97-Pxx2 L110-Zok6 L123-Mad5 L136-Nfb3 L149-Bfi1 L47-Hgx6 L59-Obk3 L72-Srs7 L85-Fbn2 L98-Ofl2 L111-Tjh4 L124-Fdo5 L137-V_z6 L150-Nvq1 L48-Hgx6 L60-Gna0 L73-Wno0 L86-Xvz3 L99-Dos3 L112-Bxf2 L125-Mca1 L138-Ysx8 L151-Syx3 L152-Sms1 L49-Hgx6 L61-Ojy9 L74-Ibh0 L87-P_f0 L100-Tct8 L113-Sjd5 L126-Gqr7 L139-Wfq8 L140-Pio2 L153-Tjx7 L62-Ic_0 L75-Kqg4 L88-Bvf8 L101-T_q5 L114-Paj6 L127-Tdg3 L128-Rbj4 L141-Tyq3 L154-Jex1 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL63-Hgx6 L76-Gxm1 L89-Ent5 L102-Cti0 L115-Ank1 L116-Sj_5 L129-Cqd4 L142-Yvj9 L155-Wnq1 L64-Hgx6 L77-Udk9 L90-Dfg2 L103-Ipm0 L104-Dqa1 L117-Rwa0 L130-N_i6 L143-Hib4 L156-Tch8 L65-Hgx6 L78-Dsc4 L91-Jgk4 L92-Ani6 L105-Xcy9 L118-Pv_4 L131-Zaw5 L144-Nr_3 L157-Elv7 L66-Hgx6 L79-Kbz2 L80-Kgr7 L93-Bng5 L106-Kox0 L119-Igp0 L132-Coi0 L145-E_v0 L158-Qly2 L67-Hgx6 L68-Wyo7 L81-Cza3 L94-Qju5 L107-Ock8 L120-Akg4 L133-Qff6 L146-Pdr4 L56-Hgx6 L69-Rix7 L82-Uba8 L95-Iny6 L108-Zrd2 L121-Cgc6 L134-Nam4 L147-Psv3 L57-Hgx6 L70-Gnd9 L83-Rtl6 L96-Pq_0 L109-Giq0 L122-Hjz8 L135-Hx_4 L148-N_i0 L58-Hgx6 L71-Dwd8 L84-Urd1 L97-Smx2 L110-Pxx2 L123-Zok6 L136-Mad5 L149-Nfb3 L59-Hgx6 L72-Obk3 L85-Srs7 L98-Fbn2 L111-Ofl2 L124-Tjh4 L137-Fdo5 L150-V_z6 L60-Hgx6 L73-Gna0 L86-Wno0 L99-Xvz3 L112-Dos3 L125-Bxf2 L138-Mca1 L151-Ysx8 L152-Syx3 L61-Hgx6 L74-Ojy9 L87-Ibh0 L100-P_f0 L113-Tct8 L126-Sjd5 L139-Gqr7 L140-Wfq8 L153-Pio2 L62-Hgx6 L75-Ic_0 L88-Kqg4 L101-Bvf8 L114-T_q5 L127-Paj6 L128-Tdg3 L141-Rbj4 L154-Tyq3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL76-Hgx6 L89-Gxm1 L102-Ent5 L115-Cti0 L116-Ank1 L129-Sj_5 L142-Cqd4 L155-Yvj9 L77-Hgx6 L90-Udk9 L103-Dfg2 L104-Ipm0 L117-Dqa1 L130-Rwa0 L143-N_i6 L156-Hib4 L78-Hgx6 L91-Dsc4 L92-Jgk4 L105-Ani6 L118-Xcy9 L131-Pv_4 L144-Zaw5 L157-Nr_3 L79-Hgx6 L80-Kbz2 L93-Kgr7 L106-Bng5 L119-Kox0 L132-Igp0 L145-Coi0 L158-E_v0 L68-Hgx6 L81-Wyo7 L94-Cza3 L107-Qju5 L120-Ock8 L133-Akg4 L146-Qff6 L69-Hgx6 L82-Rix7 L95-Uba8 L108-Iny6 L121-Zrd2 L134-Cgc6 L147-Nam4 L70-Hgx6 L83-Gnd9 L96-Rtl6 L109-Pq_0 L122-Giq0 L135-Hjz8 L148-Hx_4 L71-Hgx6 L84-Dwd8 L97-Urd1 L110-Smx2 L123-Pxx2 L136-Zok6 L149-Mad5 L72-Hgx6 L85-Obk3 L98-Srs7 L111-Fbn2 L124-Ofl2 L137-Tjh4 L150-Fdo5 L73-Hgx6 L86-Gna0 L99-Wno0 L112-Xvz3 L125-Dos3 L138-Bxf2 L151-Mca1 L152-Ysx8 L74-Hgx6 L87-Ojy9 L100-Ibh0 L113-P_f0 L126-Tct8 L139-Sjd5 L140-Gqr7 L153-Wfq8 L75-Hgx6 L88-Ic_0 L101-Kqg4 L114-Bvf8 L127-T_q5 L128-Paj6 L141-Tdg3 L154-Rbj4 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL89-Hgx6 L102-Gxm1 L115-Ent5 L116-Cti0 L129-Ank1 L142-Sj_5 L155-Cqd4 L90-Hgx6 L103-Udk9 L104-Dfg2 L117-Ipm0 L130-Dqa1 L143-Rwa0 L156-N_i6 L91-Hgx6 L92-Dsc4 L105-Jgk4 L118-Ani6 L131-Xcy9 L144-Pv_4 L157-Zaw5 L80-Hgx6 L93-Kbz2 L106-Kgr7 L119-Bng5 L132-Kox0 L145-Igp0 L158-Coi0 L81-Hgx6 L94-Wyo7 L107-Cza3 L120-Qju5 L133-Ock8 L146-Akg4 L82-Hgx6 L95-Rix7 L108-Uba8 L121-Iny6 L134-Zrd2 L147-Cgc6 L83-Hgx6 L96-Gnd9 L109-Rtl6 L122-Pq_0 L135-Giq0 L148-Hjz8 L84-Hgx6 L97-Dwd8 L110-Urd1 L123-Smx2 L136-Pxx2 L149-Zok6 L85-Hgx6 L98-Obk3 L111-Srs7 L124-Fbn2 L137-Ofl2 L150-Tjh4 L86-Hgx6 L99-Gna0 L112-Wno0 L125-Xvz3 L138-Dos3 L151-Bxf2 L152-Mca1 L87-Hgx6 L100-Ojy9 L113-Ibh0 L126-P_f0 L139-Tct8 L140-Sjd5 L153-Gqr7 L88-Hgx6 L101-Ic_0 L114-Kqg4 L127-Bvf8 L128-T_q5 L141-Paj6 L154-Tdg3 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL102-Hgx6 L115-Gxm1 L116-Ent5 L129-Cti0 L142-Ank1 L155-Sj_5 L103-Hgx6 L104-Udk9 L117-Dfg2 L130-Ipm0 L143-Dqa1 L156-Rwa0 L92-Hgx6 L105-Dsc4 L118-Jgk4 L131-Ani6 L144-Xcy9 L157-Pv_4 L93-Hgx6 L106-Kbz2 L119-Kgr7 L132-Bng5 L145-Kox0 L158-Igp0 L94-Hgx6 L107-Wyo7 L120-Cza3 L133-Qju5 L146-Ock8 L95-Hgx6 L108-Rix7 L121-Uba8 L134-Iny6 L147-Zrd2 L96-Hgx6 L109-Gnd9 L122-Rtl6 L135-Pq_0 L148-Giq0 L97-Hgx6 L110-Dwd8 L123-Urd1 L136-Smx2 L149-Pxx2 L98-Hgx6 L111-Obk3 L124-Srs7 L137-Fbn2 L150-Ofl2 L99-Hgx6 L112-Gna0 L125-Wno0 L138-Xvz3 L151-Dos3 L152-Bxf2 L100-Hgx6 L113-Ojy9 L126-Ibh0 L139-P_f0 L140-Tct8 L153-Sjd5 L101-Hgx6 L114-Ic_0 L127-Kqg4 L128-Bvf8 L141-T_q5 L154-Paj6 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL115-Hgx6 L116-Gxm1 L129-Ent5 L142-Cti0 L155-Ank1 L104-Hgx6 L117-Udk9 L130-Dfg2 L143-Ipm0 L156-Dqa1 L105-Hgx6 L118-Dsc4 L131-Jgk4 L144-Ani6 L157-Xcy9 L106-Hgx6 L119-Kbz2 L132-Kgr7 L145-Bng5 L158-Kox0 L107-Hgx6 L120-Wyo7 L133-Cza3 L146-Qju5 L108-Hgx6 L121-Rix7 L134-Uba8 L147-Iny6 L109-Hgx6 L122-Gnd9 L135-Rtl6 L148-Pq_0 L110-Hgx6 L123-Dwd8 L136-Urd1 L149-Smx2 L111-Hgx6 L124-Obk3 L137-Srs7 L150-Fbn2 L112-Hgx6 L125-Gna0 L138-Wno0 L151-Xvz3 L152-Dos3 L113-Hgx6 L126-Ojy9 L139-Ibh0 L140-P_f0 L153-Tct8 L114-Hgx6 L127-Ic_0 L128-Kqg4 L141-Bvf8 L154-T_q5 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL116-Hgx6 L129-Gxm1 L142-Ent5 L155-Cti0 L117-Hgx6 L130-Udk9 L143-Dfg2 L156-Ipm0 L118-Hgx6 L131-Dsc4 L144-Jgk4 L157-Ani6 L119-Hgx6 L132-Kbz2 L145-Kgr7 L158-Bng5 L120-Hgx6 L133-Wyo7 L146-Cza3 L121-Hgx6 L134-Rix7 L147-Uba8 L122-Hgx6 L135-Gnd9 L148-Rtl6 L123-Hgx6 L136-Dwd8 L149-Urd1 L124-Hgx6 L137-Obk3 L150-Srs7 L125-Hgx6 L138-Gna0 L151-Wno0 L152-Xvz3 L126-Hgx6 L139-Ojy9 L140-Ibh0 L153-P_f0 L127-Hgx6 L128-Ic_0 L141-Kqg4 L154-Bvf8 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL129-Hgx6 L142-Gxm1 L155-Ent5 L130-Hgx6 L143-Udk9 L156-Dfg2 L131-Hgx6 L144-Dsc4 L157-Jgk4 L132-Hgx6 L145-Kbz2 L158-Kgr7 L133-Hgx6 L146-Wyo7 L134-Hgx6 L147-Rix7 L135-Hgx6 L148-Gnd9 L136-Hgx6 L149-Dwd8 L137-Hgx6 L150-Obk3 L138-Hgx6 L151-Gna0 L152-Wno0 L139-Hgx6 L140-Ojy9 L153-Ibh0 L128-Hgx6 L141-Ic_0 L154-Kqg4 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL142-Hgx6 L155-Gxm1 L143-Hgx6 L156-Udk9 L144-Hgx6 L157-Dsc4 L145-Hgx6 L158-Kbz2 L146-Hgx6 L147-Hgx6 L148-Hgx6 L149-Hgx6 L150-Hgx6 L151-Hgx6 L152-Gna0 L140-Hgx6 L153-Ojy9 L141-Hgx6 L154-Ic_0 
-[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[38;2;80;200;120m[0m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;80;200;120m[38;2;253;253;150mL155-Hgx6 L156-Hgx6 L157-Hgx6 L158-Hgx6 L152-Hgx6 L153-Hgx6 L154-Hgx6 
+L1-Ihq5 L2-Ipf8 L4-Ppg8 L9-Kij1 L16-Snd1 L17-Kpc1 L18-Jhh1 L44-Mrm0 L45-Akc6 
+L1-Fwh4 L5-Ihq5 L2-Xpp5 L3-Ipf8 L4-Tn_4 L8-Ppg8 L9-Tzo1 L10-Kij1 L16-Oif9 L24-Snd1 L17-Cnm1 L25-Kpc1 L18-Skm9 L26-Jhh1 L44-Tvt7 L54-Mrm0 L45-Tf_4 L55-Akc6 
+L1-Hoe3 L5-Fwh4 L6-Ihq5 L2-Dmz3 L3-Xpp5 L7-Ipf8 L4-Csc6 L8-Tn_4 L13-Ppg8 L9-Wpv7 L10-Tzo1 L15-Kij1 L16-Kym6 L24-Oif9 L32-Snd1 L17-Ajx0 L25-Cnm1 L33-Kpc1 L18-Ndu0 L26-Skm9 L34-Jhh1 L44-Te_1 L54-Tvt7 L64-Mrm0 L45-Tta7 L55-Tf_4 L65-Akc6 
+L1-Efo0 L5-Hoe3 L6-Fwh4 L11-Ihq5 L2-Htb1 L3-Dmz3 L7-Xpp5 L12-Ipf8 L4-Wk_6 L8-Csc6 L13-Tn_4 L14-Ppg8 L9-Blg1 L10-Wpv7 L15-Tzo1 L23-Kij1 L16-Bdh0 L24-Kym6 L32-Oif9 L40-Snd1 L17-Rw_0 L25-Ajx0 L33-Cnm1 L41-Kpc1 L18-Juy1 L26-Ndu0 L34-Skm9 L35-Jhh1 L44-Ayu0 L54-Te_1 L64-Tvt7 L74-Mrm0 L45-N_x5 L55-Tta7 L65-Tf_4 L75-Akc6 
+L1-Iu_2 L5-Efo0 L6-Hoe3 L11-Fwh4 L19-Ihq5 L2-Isa2 L3-Htb1 L7-Dmz3 L12-Xpp5 L20-Ipf8 L4-Alg1 L8-Wk_6 L13-Csc6 L14-Tn_4 L22-Ppg8 L9-Xey5 L10-Blg1 L15-Wpv7 L23-Tzo1 L31-Kij1 L16-Ftp7 L24-Bdh0 L32-Kym6 L40-Oif9 L50-Snd1 L17-Efx0 L25-Rw_0 L33-Ajx0 L41-Cnm1 L42-Kpc1 L18-H_t8 L26-Juy1 L34-Ndu0 L35-Skm9 L43-Jhh1 L44-Xtf2 L54-Ayu0 L64-Te_1 L74-Tvt7 L84-Mrm0 L45-Byk2 L55-N_x5 L65-Tta7 L75-Tf_4 L85-Akc6 
+L1-Zzj5 L5-Iu_2 L6-Efo0 L11-Hoe3 L19-Fwh4 L27-Ihq5 L2-A_k0 L3-Isa2 L7-Htb1 L12-Dmz3 L20-Xpp5 L21-Ipf8 L4-Pp_0 L8-Alg1 L13-Wk_6 L14-Csc6 L22-Tn_4 L30-Ppg8 L9-Dkm5 L10-Xey5 L15-Blg1 L23-Wpv7 L31-Tzo1 L39-Kij1 L16-Hkk8 L24-Ftp7 L32-Bdh0 L40-Kym6 L50-Oif9 L51-Snd1 L17-Tkm4 L25-Efx0 L33-Rw_0 L41-Ajx0 L42-Cnm1 L52-Kpc1 L18-Dji3 L26-H_t8 L34-Juy1 L35-Ndu0 L43-Skm9 L53-Jhh1 L44-Uon4 L54-Xtf2 L64-Ayu0 L74-Te_1 L84-Tvt7 L45-Sem3 L55-Byk2 L65-N_x5 L75-Tta7 L85-Tf_4 
+L1-Zth4 L5-Zzj5 L6-Iu_2 L11-Efo0 L19-Hoe3 L27-Fwh4 L28-Ihq5 L2-Mfu2 L3-A_k0 L7-Isa2 L12-Htb1 L20-Dmz3 L21-Xpp5 L29-Ipf8 L4-Zwo2 L8-Pp_0 L13-Alg1 L14-Wk_6 L22-Csc6 L30-Tn_4 L38-Ppg8 L9-Mmy2 L10-Dkm5 L15-Xey5 L23-Blg1 L31-Wpv7 L39-Tzo1 L49-Kij1 L16-Afl1 L24-Hkk8 L32-Ftp7 L40-Bdh0 L50-Kym6 L51-Oif9 L61-Snd1 L17-Yxf9 L25-Tkm4 L33-Efx0 L41-Rw_0 L42-Ajx0 L52-Cnm1 L62-Kpc1 L18-Pac3 L26-Dji3 L34-H_t8 L35-Juy1 L43-Ndu0 L53-Skm9 L63-Jhh1 L44-Dok1 L54-Uon4 L64-Xtf2 L74-Ayu0 L84-Te_1 L45-Gxq3 L55-Sem3 L65-Byk2 L75-N_x5 L85-Tta7 
+L1-U_a6 L5-Zth4 L6-Zzj5 L11-Iu_2 L19-Efo0 L27-Hoe3 L28-Fwh4 L36-Ihq5 L2-A_s3 L3-Mfu2 L7-A_k0 L12-Isa2 L20-Htb1 L21-Dmz3 L29-Xpp5 L37-Ipf8 L4-Vl_6 L8-Zwo2 L13-Pp_0 L14-Alg1 L22-Wk_6 L30-Csc6 L38-Tn_4 L48-Ppg8 L9-Gnu7 L10-Mmy2 L15-Dkm5 L23-Xey5 L31-Blg1 L39-Wpv7 L49-Tzo1 L59-Kij1 L16-Bsj9 L24-Afl1 L32-Hkk8 L40-Ftp7 L50-Bdh0 L51-Kym6 L61-Oif9 L71-Snd1 L17-Fkz1 L25-Yxf9 L33-Tkm4 L41-Efx0 L42-Rw_0 L52-Ajx0 L62-Cnm1 L72-Kpc1 L18-Gch5 L26-Pac3 L34-Dji3 L35-H_t8 L43-Juy1 L53-Ndu0 L63-Skm9 L73-Jhh1 L44-Jic7 L54-Dok1 L64-Uon4 L74-Xtf2 L84-Ayu0 L45-Ok_3 L55-Gxq3 L65-Sem3 L75-Byk2 L85-N_x5 
+L1-Ekj6 L5-U_a6 L6-Zth4 L11-Zzj5 L19-Iu_2 L27-Efo0 L28-Hoe3 L36-Fwh4 L46-Ihq5 L2-Yvs4 L3-A_s3 L7-Mfu2 L12-A_k0 L20-Isa2 L21-Htb1 L29-Dmz3 L37-Xpp5 L47-Ipf8 L4-Cit7 L8-Vl_6 L13-Zwo2 L14-Pp_0 L22-Alg1 L30-Wk_6 L38-Csc6 L48-Tn_4 L58-Ppg8 L9-Ijv7 L10-Gnu7 L15-Mmy2 L23-Dkm5 L31-Xey5 L39-Blg1 L49-Wpv7 L59-Tzo1 L60-Kij1 L16-Ekb7 L24-Bsj9 L32-Afl1 L40-Hkk8 L50-Ftp7 L51-Bdh0 L61-Kym6 L71-Oif9 L81-Snd1 L17-J__1 L25-Fkz1 L33-Yxf9 L41-Tkm4 L42-Efx0 L52-Rw_0 L62-Ajx0 L72-Cnm1 L82-Kpc1 L18-Ggv7 L26-Gch5 L34-Pac3 L35-Dji3 L43-H_t8 L53-Juy1 L63-Ndu0 L73-Skm9 L83-Jhh1 L44-Sql4 L54-Jic7 L64-Dok1 L74-Uon4 L84-Xtf2 L45-Qvg0 L55-Ok_3 L65-Gxq3 L75-Sem3 L85-Byk2 
+L1-Azb0 L5-Ekj6 L6-U_a6 L11-Zth4 L19-Zzj5 L27-Iu_2 L28-Efo0 L36-Hoe3 L46-Fwh4 L56-Ihq5 L2-Upo5 L3-Yvs4 L7-A_s3 L12-Mfu2 L20-A_k0 L21-Isa2 L29-Htb1 L37-Dmz3 L47-Xpp5 L57-Ipf8 L4-Ecc0 L8-Cit7 L13-Vl_6 L14-Zwo2 L22-Pp_0 L30-Alg1 L38-Wk_6 L48-Csc6 L58-Tn_4 L68-Ppg8 L9-Soy0 L10-Ijv7 L15-Gnu7 L23-Mmy2 L31-Dkm5 L39-Xey5 L49-Blg1 L59-Wpv7 L60-Tzo1 L70-Kij1 L16-Vev7 L24-Ekb7 L32-Bsj9 L40-Afl1 L50-Hkk8 L51-Ftp7 L61-Bdh0 L71-Kym6 L81-Oif9 L17-Y_w9 L25-J__1 L33-Fkz1 L41-Yxf9 L42-Tkm4 L52-Efx0 L62-Rw_0 L72-Ajx0 L82-Cnm1 L18-Xsx3 L26-Ggv7 L34-Gch5 L35-Pac3 L43-Dji3 L53-H_t8 L63-Juy1 L73-Ndu0 L83-Skm9 L44-M_t3 L54-Sql4 L64-Jic7 L74-Dok1 L84-Uon4 L45-Yh_5 L55-Qvg0 L65-Ok_3 L75-Gxq3 L85-Sem3 
+L1-E_y8 L5-Azb0 L6-Ekj6 L11-U_a6 L19-Zth4 L27-Zzj5 L28-Iu_2 L36-Efo0 L46-Hoe3 L56-Fwh4 L66-Ihq5 L2-Ejw3 L3-Upo5 L7-Yvs4 L12-A_s3 L20-Mfu2 L21-A_k0 L29-Isa2 L37-Htb1 L47-Dmz3 L57-Xpp5 L67-Ipf8 L4-Jcf0 L8-Ecc0 L13-Cit7 L14-Vl_6 L22-Zwo2 L30-Pp_0 L38-Alg1 L48-Wk_6 L58-Csc6 L68-Tn_4 L69-Ppg8 L9-Gaj9 L10-Soy0 L15-Ijv7 L23-Gnu7 L31-Mmy2 L39-Dkm5 L49-Xey5 L59-Blg1 L60-Wpv7 L70-Tzo1 L80-Kij1 L16-Xgl5 L24-Vev7 L32-Ekb7 L40-Bsj9 L50-Afl1 L51-Hkk8 L61-Ftp7 L71-Bdh0 L81-Kym6 L17-Moa3 L25-Y_w9 L33-J__1 L41-Fkz1 L42-Yxf9 L52-Tkm4 L62-Efx0 L72-Rw_0 L82-Ajx0 L18-Wqn8 L26-Xsx3 L34-Ggv7 L35-Gch5 L43-Pac3 L53-Dji3 L63-H_t8 L73-Juy1 L83-Ndu0 L44-Rhd5 L54-M_t3 L64-Sql4 L74-Jic7 L84-Dok1 L45-Rv_3 L55-Yh_5 L65-Qvg0 L75-Ok_3 L85-Gxq3 
+L1-Fn_5 L5-E_y8 L6-Azb0 L11-Ekj6 L19-U_a6 L27-Zth4 L28-Zzj5 L36-Iu_2 L46-Efo0 L56-Hoe3 L66-Fwh4 L76-Ihq5 L2-Dpn5 L3-Ejw3 L7-Upo5 L12-Yvs4 L20-A_s3 L21-Mfu2 L29-A_k0 L37-Isa2 L47-Htb1 L57-Dmz3 L67-Xpp5 L77-Ipf8 L4-Dqu9 L8-Jcf0 L13-Ecc0 L14-Cit7 L22-Vl_6 L30-Zwo2 L38-Pp_0 L48-Alg1 L58-Wk_6 L68-Csc6 L69-Tn_4 L79-Ppg8 L9-Xvg5 L10-Gaj9 L15-Soy0 L23-Ijv7 L31-Gnu7 L39-Mmy2 L49-Dkm5 L59-Xey5 L60-Blg1 L70-Wpv7 L80-Tzo1 L16-Yzr0 L24-Xgl5 L32-Vev7 L40-Ekb7 L50-Bsj9 L51-Afl1 L61-Hkk8 L71-Ftp7 L81-Bdh0 L17-Ftt0 L25-Moa3 L33-Y_w9 L41-J__1 L42-Fkz1 L52-Yxf9 L62-Tkm4 L72-Efx0 L82-Rw_0 L18-Bwr4 L26-Wqn8 L34-Xsx3 L35-Ggv7 L43-Gch5 L53-Pac3 L63-Dji3 L73-H_t8 L83-Juy1 L44-J_z9 L54-Rhd5 L64-M_t3 L74-Sql4 L84-Jic7 L45-Onm5 L55-Rv_3 L65-Yh_5 L75-Qvg0 L85-Ok_3 
+L1-Xwu9 L5-Fn_5 L6-E_y8 L11-Azb0 L19-Ekj6 L27-U_a6 L28-Zth4 L36-Zzj5 L46-Iu_2 L56-Efo0 L66-Hoe3 L76-Fwh4 L2-Gdq6 L3-Dpn5 L7-Ejw3 L12-Upo5 L20-Yvs4 L21-A_s3 L29-Mfu2 L37-A_k0 L47-Isa2 L57-Htb1 L67-Dmz3 L77-Xpp5 L78-Ipf8 L4-Rzm1 L8-Dqu9 L13-Jcf0 L14-Ecc0 L22-Cit7 L30-Vl_6 L38-Zwo2 L48-Pp_0 L58-Alg1 L68-Wk_6 L69-Csc6 L79-Tn_4 L9-Ygx5 L10-Xvg5 L15-Gaj9 L23-Soy0 L31-Ijv7 L39-Gnu7 L49-Mmy2 L59-Dkm5 L60-Xey5 L70-Blg1 L80-Wpv7 L16-Nxg7 L24-Yzr0 L32-Xgl5 L40-Vev7 L50-Ekb7 L51-Bsj9 L61-Afl1 L71-Hkk8 L81-Ftp7 L17-Xsk1 L25-Ftt0 L33-Moa3 L41-Y_w9 L42-J__1 L52-Fkz1 L62-Yxf9 L72-Tkm4 L82-Efx0 L18-Bud1 L26-Bwr4 L34-Wqn8 L35-Xsx3 L43-Ggv7 L53-Gch5 L63-Pac3 L73-Dji3 L83-H_t8 L44-Taw5 L54-J_z9 L64-Rhd5 L74-M_t3 L84-Sql4 L45-Zbo3 L55-Onm5 L65-Rv_3 L75-Yh_5 L85-Qvg0 
+L1-Puh7 L5-Xwu9 L6-Fn_5 L11-E_y8 L19-Azb0 L27-Ekj6 L28-U_a6 L36-Zth4 L46-Zzj5 L56-Iu_2 L66-Efo0 L76-Hoe3 L2-Ezv7 L3-Gdq6 L7-Dpn5 L12-Ejw3 L20-Upo5 L21-Yvs4 L29-A_s3 L37-Mfu2 L47-A_k0 L57-Isa2 L67-Htb1 L77-Dmz3 L78-Xpp5 L4-Mbc8 L8-Rzm1 L13-Dqu9 L14-Jcf0 L22-Ecc0 L30-Cit7 L38-Vl_6 L48-Zwo2 L58-Pp_0 L68-Alg1 L69-Wk_6 L79-Csc6 L9-Aas5 L10-Ygx5 L15-Xvg5 L23-Gaj9 L31-Soy0 L39-Ijv7 L49-Gnu7 L59-Mmy2 L60-Dkm5 L70-Xey5 L80-Blg1 L16-Fqc1 L24-Nxg7 L32-Yzr0 L40-Xgl5 L50-Vev7 L51-Ekb7 L61-Bsj9 L71-Afl1 L81-Hkk8 L17-Ul_7 L25-Xsk1 L33-Ftt0 L41-Moa3 L42-Y_w9 L52-J__1 L62-Fkz1 L72-Yxf9 L82-Tkm4 L18-Rvh8 L26-Bud1 L34-Bwr4 L35-Wqn8 L43-Xsx3 L53-Ggv7 L63-Gch5 L73-Pac3 L83-Dji3 L44-Fci3 L54-Taw5 L64-J_z9 L74-Rhd5 L84-M_t3 L45-Hc_9 L55-Zbo3 L65-Onm5 L75-Rv_3 L85-Yh_5 
+L1-Dj_1 L5-Puh7 L6-Xwu9 L11-Fn_5 L19-E_y8 L27-Azb0 L28-Ekj6 L36-U_a6 L46-Zth4 L56-Zzj5 L66-Iu_2 L76-Efo0 L2-Gw_8 L3-Ezv7 L7-Gdq6 L12-Dpn5 L20-Ejw3 L21-Upo5 L29-Yvs4 L37-A_s3 L47-Mfu2 L57-A_k0 L67-Isa2 L77-Htb1 L78-Dmz3 L4-A_v0 L8-Mbc8 L13-Rzm1 L14-Dqu9 L22-Jcf0 L30-Ecc0 L38-Cit7 L48-Vl_6 L58-Zwo2 L68-Pp_0 L69-Alg1 L79-Wk_6 L9-Jyl7 L10-Aas5 L15-Ygx5 L23-Xvg5 L31-Gaj9 L39-Soy0 L49-Ijv7 L59-Gnu7 L60-Mmy2 L70-Dkm5 L80-Xey5 L16-Fhu0 L24-Fqc1 L32-Nxg7 L40-Yzr0 L50-Xgl5 L51-Vev7 L61-Ekb7 L71-Bsj9 L81-Afl1 L17-Hor5 L25-Ul_7 L33-Xsk1 L41-Ftt0 L42-Moa3 L52-Y_w9 L62-J__1 L72-Fkz1 L82-Yxf9 L18-Fcv5 L26-Rvh8 L34-Bud1 L35-Bwr4 L43-Wqn8 L53-Xsx3 L63-Ggv7 L73-Gch5 L83-Pac3 L44-Mpy6 L54-Fci3 L64-Taw5 L74-J_z9 L84-Rhd5 L45-A_y3 L55-Hc_9 L65-Zbo3 L75-Onm5 L85-Rv_3 
+L1-Que5 L5-Dj_1 L6-Puh7 L11-Xwu9 L19-Fn_5 L27-E_y8 L28-Azb0 L36-Ekj6 L46-U_a6 L56-Zth4 L66-Zzj5 L76-Iu_2 L2-Rip1 L3-Gw_8 L7-Ezv7 L12-Gdq6 L20-Dpn5 L21-Ejw3 L29-Upo5 L37-Yvs4 L47-A_s3 L57-Mfu2 L67-A_k0 L77-Isa2 L78-Htb1 L4-Imv9 L8-A_v0 L13-Mbc8 L14-Rzm1 L22-Dqu9 L30-Jcf0 L38-Ecc0 L48-Cit7 L58-Vl_6 L68-Zwo2 L69-Pp_0 L79-Alg1 L9-Wky2 L10-Jyl7 L15-Aas5 L23-Ygx5 L31-Xvg5 L39-Gaj9 L49-Soy0 L59-Ijv7 L60-Gnu7 L70-Mmy2 L80-Dkm5 L16-Zhn1 L24-Fhu0 L32-Fqc1 L40-Nxg7 L50-Yzr0 L51-Xgl5 L61-Vev7 L71-Ekb7 L81-Bsj9 L17-Gwb0 L25-Hor5 L33-Ul_7 L41-Xsk1 L42-Ftt0 L52-Moa3 L62-Y_w9 L72-J__1 L82-Fkz1 L18-Ask5 L26-Fcv5 L34-Rvh8 L35-Bud1 L43-Bwr4 L53-Wqn8 L63-Xsx3 L73-Ggv7 L83-Gch5 L44-Mmk8 L54-Mpy6 L64-Fci3 L74-Taw5 L84-J_z9 L45-Efz1 L55-A_y3 L65-Hc_9 L75-Zbo3 L85-Onm5 
+L1-Gnf9 L5-Que5 L6-Dj_1 L11-Puh7 L19-Xwu9 L27-Fn_5 L28-E_y8 L36-Azb0 L46-Ekj6 L56-U_a6 L66-Zth4 L76-Zzj5 L2-Gnf9 L3-Rip1 L7-Gw_8 L12-Ezv7 L20-Gdq6 L21-Dpn5 L29-Ejw3 L37-Upo5 L47-Yvs4 L57-A_s3 L67-Mfu2 L77-A_k0 L78-Isa2 L4-Fif0 L8-Imv9 L13-A_v0 L14-Mbc8 L22-Rzm1 L30-Dqu9 L38-Jcf0 L48-Ecc0 L58-Cit7 L68-Vl_6 L69-Zwo2 L79-Pp_0 L9-Dud8 L10-Wky2 L15-Jyl7 L23-Aas5 L31-Ygx5 L39-Xvg5 L49-Gaj9 L59-Soy0 L60-Ijv7 L70-Gnu7 L80-Mmy2 L16-Kfn7 L24-Zhn1 L32-Fhu0 L40-Fqc1 L50-Nxg7 L51-Yzr0 L61-Xgl5 L71-Vev7 L81-Ekb7 L17-Tbd2 L25-Gwb0 L33-Hor5 L41-Ul_7 L42-Xsk1 L52-Ftt0 L62-Moa3 L72-Y_w9 L82-J__1 L18-Msu0 L26-Ask5 L34-Fcv5 L35-Rvh8 L43-Bud1 L53-Bwr4 L63-Wqn8 L73-Xsx3 L83-Ggv7 L44-Ebr1 L54-Mmk8 L64-Mpy6 L74-Fci3 L84-Taw5 L45-Usu2 L55-Efz1 L65-A_y3 L75-Hc_9 L85-Zbo3 
+L5-Gnf9 L6-Que5 L11-Dj_1 L19-Puh7 L27-Xwu9 L28-Fn_5 L36-E_y8 L46-Azb0 L56-Ekj6 L66-U_a6 L76-Zth4 L3-Gnf9 L7-Rip1 L12-Gw_8 L20-Ezv7 L21-Gdq6 L29-Dpn5 L37-Ejw3 L47-Upo5 L57-Yvs4 L67-A_s3 L77-Mfu2 L78-A_k0 L4-Gnf9 L8-Fif0 L13-Imv9 L14-A_v0 L22-Mbc8 L30-Rzm1 L38-Dqu9 L48-Jcf0 L58-Ecc0 L68-Cit7 L69-Vl_6 L79-Zwo2 L9-Aad1 L10-Dud8 L15-Wky2 L23-Jyl7 L31-Aas5 L39-Ygx5 L49-Xvg5 L59-Gaj9 L60-Soy0 L70-Ijv7 L80-Gnu7 L16-Eum6 L24-Kfn7 L32-Zhn1 L40-Fhu0 L50-Fqc1 L51-Nxg7 L61-Yzr0 L71-Xgl5 L81-Vev7 L17-Twg1 L25-Tbd2 L33-Gwb0 L41-Hor5 L42-Ul_7 L52-Xsk1 L62-Ftt0 L72-Moa3 L82-Y_w9 L18-U_r3 L26-Msu0 L34-Ask5 L35-Fcv5 L43-Rvh8 L53-Bud1 L63-Bwr4 L73-Wqn8 L83-Xsx3 L44-Ysu1 L54-Ebr1 L64-Mmk8 L74-Mpy6 L84-Fci3 L45-Ycc7 L55-Usu2 L65-Efz1 L75-A_y3 L85-Hc_9 
+L6-Gnf9 L11-Que5 L19-Dj_1 L27-Puh7 L28-Xwu9 L36-Fn_5 L46-E_y8 L56-Azb0 L66-Ekj6 L76-U_a6 L7-Gnf9 L12-Rip1 L20-Gw_8 L21-Ezv7 L29-Gdq6 L37-Dpn5 L47-Ejw3 L57-Upo5 L67-Yvs4 L77-A_s3 L78-Mfu2 L8-Gnf9 L13-Fif0 L14-Imv9 L22-A_v0 L30-Mbc8 L38-Rzm1 L48-Dqu9 L58-Jcf0 L68-Ecc0 L69-Cit7 L79-Vl_6 L9-Gnf9 L10-Aad1 L15-Dud8 L23-Wky2 L31-Jyl7 L39-Aas5 L49-Ygx5 L59-Xvg5 L60-Gaj9 L70-Soy0 L80-Ijv7 L16-Gwi6 L24-Eum6 L32-Kfn7 L40-Zhn1 L50-Fhu0 L51-Fqc1 L61-Nxg7 L71-Yzr0 L81-Xgl5 L17-Sc_4 L25-Twg1 L33-Tbd2 L41-Gwb0 L42-Hor5 L52-Ul_7 L62-Xsk1 L72-Ftt0 L82-Moa3 L18-Jgr8 L26-U_r3 L34-Msu0 L35-Ask5 L43-Fcv5 L53-Rvh8 L63-Bud1 L73-Bwr4 L83-Wqn8 L44-Rrs5 L54-Ysu1 L64-Ebr1 L74-Mmk8 L84-Mpy6 L45-Nrl2 L55-Ycc7 L65-Usu2 L75-Efz1 L85-A_y3 
+L11-Gnf9 L19-Que5 L27-Dj_1 L28-Puh7 L36-Xwu9 L46-Fn_5 L56-E_y8 L66-Azb0 L76-Ekj6 L12-Gnf9 L20-Rip1 L21-Gw_8 L29-Ezv7 L37-Gdq6 L47-Dpn5 L57-Ejw3 L67-Upo5 L77-Yvs4 L78-A_s3 L13-Gnf9 L14-Fif0 L22-Imv9 L30-A_v0 L38-Mbc8 L48-Rzm1 L58-Dqu9 L68-Jcf0 L69-Ecc0 L79-Cit7 L10-Gnf9 L15-Aad1 L23-Dud8 L31-Wky2 L39-Jyl7 L49-Aas5 L59-Ygx5 L60-Xvg5 L70-Gaj9 L80-Soy0 L16-Mgl7 L24-Gwi6 L32-Eum6 L40-Kfn7 L50-Zhn1 L51-Fhu0 L61-Fqc1 L71-Nxg7 L81-Yzr0 L17-Oev5 L25-Sc_4 L33-Twg1 L41-Tbd2 L42-Gwb0 L52-Hor5 L62-Ul_7 L72-Xsk1 L82-Ftt0 L18-Ivt1 L26-Jgr8 L34-U_r3 L35-Msu0 L43-Ask5 L53-Fcv5 L63-Rvh8 L73-Bud1 L83-Bwr4 L44-Isa0 L54-Rrs5 L64-Ysu1 L74-Ebr1 L84-Mmk8 L45-Key2 L55-Nrl2 L65-Ycc7 L75-Usu2 L85-Efz1 
+L19-Gnf9 L27-Que5 L28-Dj_1 L36-Puh7 L46-Xwu9 L56-Fn_5 L66-E_y8 L76-Azb0 L20-Gnf9 L21-Rip1 L29-Gw_8 L37-Ezv7 L47-Gdq6 L57-Dpn5 L67-Ejw3 L77-Upo5 L78-Yvs4 L14-Gnf9 L22-Fif0 L30-Imv9 L38-A_v0 L48-Mbc8 L58-Rzm1 L68-Dqu9 L69-Jcf0 L79-Ecc0 L15-Gnf9 L23-Aad1 L31-Dud8 L39-Wky2 L49-Jyl7 L59-Aas5 L60-Ygx5 L70-Xvg5 L80-Gaj9 L16-Gnf9 L24-Mgl7 L32-Gwi6 L40-Eum6 L50-Kfn7 L51-Zhn1 L61-Fhu0 L71-Fqc1 L81-Nxg7 L17-Gnf9 L25-Oev5 L33-Sc_4 L41-Twg1 L42-Tbd2 L52-Gwb0 L62-Hor5 L72-Ul_7 L82-Xsk1 L18-Gnf9 L26-Ivt1 L34-Jgr8 L35-U_r3 L43-Msu0 L53-Ask5 L63-Fcv5 L73-Rvh8 L83-Bud1 L44-Ksp7 L54-Isa0 L64-Rrs5 L74-Ysu1 L84-Ebr1 L45-Q_t0 L55-Key2 L65-Nrl2 L75-Ycc7 L85-Usu2 
+L27-Gnf9 L28-Que5 L36-Dj_1 L46-Puh7 L56-Xwu9 L66-Fn_5 L76-E_y8 L21-Gnf9 L29-Rip1 L37-Gw_8 L47-Ezv7 L57-Gdq6 L67-Dpn5 L77-Ejw3 L78-Upo5 L22-Gnf9 L30-Fif0 L38-Imv9 L48-A_v0 L58-Mbc8 L68-Rzm1 L69-Dqu9 L79-Jcf0 L23-Gnf9 L31-Aad1 L39-Dud8 L49-Wky2 L59-Jyl7 L60-Aas5 L70-Ygx5 L80-Xvg5 L24-Gnf9 L32-Mgl7 L40-Gwi6 L50-Eum6 L51-Kfn7 L61-Zhn1 L71-Fhu0 L81-Fqc1 L25-Gnf9 L33-Oev5 L41-Sc_4 L42-Twg1 L52-Tbd2 L62-Gwb0 L72-Hor5 L82-Ul_7 L26-Gnf9 L34-Ivt1 L35-Jgr8 L43-U_r3 L53-Msu0 L63-Ask5 L73-Fcv5 L83-Rvh8 L44-M_m8 L54-Ksp7 L64-Isa0 L74-Rrs5 L84-Ysu1 L45-Hqo2 L55-Q_t0 L65-Key2 L75-Nrl2 L85-Ycc7 
+L28-Gnf9 L36-Que5 L46-Dj_1 L56-Puh7 L66-Xwu9 L76-Fn_5 L29-Gnf9 L37-Rip1 L47-Gw_8 L57-Ezv7 L67-Gdq6 L77-Dpn5 L78-Ejw3 L30-Gnf9 L38-Fif0 L48-Imv9 L58-A_v0 L68-Mbc8 L69-Rzm1 L79-Dqu9 L31-Gnf9 L39-Aad1 L49-Dud8 L59-Wky2 L60-Jyl7 L70-Aas5 L80-Ygx5 L32-Gnf9 L40-Mgl7 L50-Gwi6 L51-Eum6 L61-Kfn7 L71-Zhn1 L81-Fhu0 L33-Gnf9 L41-Oev5 L42-Sc_4 L52-Twg1 L62-Tbd2 L72-Gwb0 L82-Hor5 L34-Gnf9 L35-Ivt1 L43-Jgr8 L53-U_r3 L63-Msu0 L73-Ask5 L83-Fcv5 L44-Hbc3 L54-M_m8 L64-Ksp7 L74-Isa0 L84-Rrs5 L45-Em_4 L55-Hqo2 L65-Q_t0 L75-Key2 L85-Nrl2 
+L36-Gnf9 L46-Que5 L56-Dj_1 L66-Puh7 L76-Xwu9 L37-Gnf9 L47-Rip1 L57-Gw_8 L67-Ezv7 L77-Gdq6 L78-Dpn5 L38-Gnf9 L48-Fif0 L58-Imv9 L68-A_v0 L69-Mbc8 L79-Rzm1 L39-Gnf9 L49-Aad1 L59-Dud8 L60-Wky2 L70-Jyl7 L80-Aas5 L40-Gnf9 L50-Mgl7 L51-Gwi6 L61-Eum6 L71-Kfn7 L81-Zhn1 L41-Gnf9 L42-Oev5 L52-Sc_4 L62-Twg1 L72-Tbd2 L82-Gwb0 L35-Gnf9 L43-Ivt1 L53-Jgr8 L63-U_r3 L73-Msu0 L83-Ask5 L44-Jhc3 L54-Hbc3 L64-M_m8 L74-Ksp7 L84-Isa0 L45-Gim5 L55-Em_4 L65-Hqo2 L75-Q_t0 L85-Key2 
+L46-Gnf9 L56-Que5 L66-Dj_1 L76-Puh7 L47-Gnf9 L57-Rip1 L67-Gw_8 L77-Ezv7 L78-Gdq6 L48-Gnf9 L58-Fif0 L68-Imv9 L69-A_v0 L79-Mbc8 L49-Gnf9 L59-Aad1 L60-Dud8 L70-Wky2 L80-Jyl7 L50-Gnf9 L51-Mgl7 L61-Gwi6 L71-Eum6 L81-Kfn7 L42-Gnf9 L52-Oev5 L62-Sc_4 L72-Twg1 L82-Tbd2 L43-Gnf9 L53-Ivt1 L63-Jgr8 L73-U_r3 L83-Msu0 L44-Gnf9 L54-Jhc3 L64-Hbc3 L74-M_m8 L84-Ksp7 L45-Gnf9 L55-Gim5 L65-Em_4 L75-Hqo2 L85-Q_t0 
+L56-Gnf9 L66-Que5 L76-Dj_1 L57-Gnf9 L67-Rip1 L77-Gw_8 L78-Ezv7 L58-Gnf9 L68-Fif0 L69-Imv9 L79-A_v0 L59-Gnf9 L60-Aad1 L70-Dud8 L80-Wky2 L51-Gnf9 L61-Mgl7 L71-Gwi6 L81-Eum6 L52-Gnf9 L62-Oev5 L72-Sc_4 L82-Twg1 L53-Gnf9 L63-Ivt1 L73-Jgr8 L83-U_r3 L54-Gnf9 L64-Jhc3 L74-Hbc3 L84-M_m8 L55-Gnf9 L65-Gim5 L75-Em_4 L85-Hqo2 
+L66-Gnf9 L76-Que5 L67-Gnf9 L77-Rip1 L78-Gw_8 L68-Gnf9 L69-Fif0 L79-Imv9 L60-Gnf9 L70-Aad1 L80-Dud8 L61-Gnf9 L71-Mgl7 L81-Gwi6 L62-Gnf9 L72-Oev5 L82-Sc_4 L63-Gnf9 L73-Ivt1 L83-Jgr8 L64-Gnf9 L74-Jhc3 L84-Hbc3 L65-Gnf9 L75-Gim5 L85-Em_4 
+L76-Gnf9 L77-Gnf9 L78-Rip1 L69-Gnf9 L79-Fif0 L70-Gnf9 L80-Aad1 L71-Gnf9 L81-Mgl7 L72-Gnf9 L82-Oev5 L73-Gnf9 L83-Ivt1 L74-Gnf9 L84-Jhc3 L75-Gnf9 L85-Gim5 
+L78-Gnf9 L79-Gnf9 L80-Gnf9 L81-Gnf9 L82-Gnf9 L83-Gnf9 L84-Gnf9 L85-Gnf9 
