@@ -9,12 +9,16 @@ STOP="\e[0m"
 # done
 # in the file output, it finds the empty line and puts the text
 # result=`awk '$0=($0)?$0:"HERE IT IS"' output`
+echo "Would you like to generate new maps? [y/n]"
+read run_generator
 
-echo "How many maps per category would you like to generate?"
-read maps_amount_per_cat
-
-# we are calling the generate_maps script 
-sh ./generate_maps.sh $maps_amount_per_cat
+# we are calling the generate_maps script if the answer given above is yes
+if [ "$run_generator" = "y" ]
+then
+  echo "How many maps per category would you like to generate?"
+  read maps_amount_per_cat
+  sh ./generate_maps.sh $maps_amount_per_cat
+fi
 
 # we get all the files from the testmaps folder
 FILES="testmaps/*"
